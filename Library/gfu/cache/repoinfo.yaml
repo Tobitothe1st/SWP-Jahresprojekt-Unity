@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-10-07T08:25:41.712+02:00
-  initializedAtString: 2021-10-07T08:09:56.730+02:00
+  lastUpdatedAtString: 2021-10-07T08:41:44.335+02:00
+  initializedAtString: 2021-10-07T08:41:44.335+02:00
   currentGitRemote:
     name: origin
     url: https://github.com/Tobitothe1st/SWP-Jahresprojekt-Unity.git

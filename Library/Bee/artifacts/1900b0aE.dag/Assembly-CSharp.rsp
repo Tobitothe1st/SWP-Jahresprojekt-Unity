@@ -320,7 +320,11 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
 "Assets/Extern Assets/IgniteCoders/Simple Water Shader/Info/Scripts/Readme.cs"
 "Assets/Extern Assets/IgniteCoders/Simple Water Shader/Resources/WaterReflection.cs"
+<<<<<<< Updated upstream
 "Assets/Extern Assets/Rocks and Boulders 2/Shaders/RotateGameObject.cs"
+=======
+"Assets/Scripts/EnemyMovement.cs"
+>>>>>>> Stashed changes
 "Assets/Scripts/MovementKeyboard.cs"
 "Assets/Scripts/MovementMouse.cs"
 -langversion:8.0

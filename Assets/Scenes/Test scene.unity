@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.4465782, g: 0.49641252, b: 0.5748167, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -536,9 +536,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   EnemyBody: {fileID: 894739495}
-  speed: 10
-  player: {fileID: 2106999743}
-  move: {x: 0, y: 0, z: 0}
+  player: {fileID: 2106999745}
+  move: 1
 --- !u!4 &894739495
 Transform:
   m_ObjectHideFlags: 0
@@ -847,15 +846,15 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2106999743}
-  m_LocalRotation: {x: -0, y: 0.9601196, z: -0, w: 0.2795898}
-  m_LocalPosition: {x: 0.138, y: 1, z: -0.217}
+  m_LocalRotation: {x: -0, y: 0.6729694, z: -0, w: 0.73967034}
+  m_LocalPosition: {x: -3.33, y: 1, z: -0.73}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 422235288}
   - {fileID: 189253140}
   m_Father: {fileID: 0}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 147.529, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 84.593, z: 0}
 --- !u!114 &2106999746
 MonoBehaviour:
   m_ObjectHideFlags: 0

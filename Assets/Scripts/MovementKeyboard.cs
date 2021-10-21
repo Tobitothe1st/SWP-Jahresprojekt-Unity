@@ -5,6 +5,7 @@ using UnityEngine;
 public class MovementKeyboard : MonoBehaviour
 {
     public CharacterController controller;
+    public Transform floor;
 
     public float speed = 12f;
 
@@ -27,16 +28,20 @@ public class MovementKeyboard : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            y = 5;
+            move = transform.up + 10f;
         }
-        else
+
+
+        if (Vector3.Distance(controller, floor)>1f)
         {
-            move = transform.up * y;
+            move = transform.up - 5f;
         }
 
         move = transform.right * x + transform.forward * z;
 
         controller.Move(move * speed * Time.deltaTime);
+
+
 
         
     }

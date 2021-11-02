@@ -7,14 +7,19 @@ public class MovementKeyboard : MonoBehaviour
     public CharacterController controller;
 
     public float speed = 12f;
+    public float y = 5f;
+    public float yspeed = 1f;
 
     public Vector3 move;
+
+
+
     // Update is called once per frame
     void Update()
     {
         float x = Input.GetAxis("Horizontal");
         float z = Input.GetAxis("Vertical");
-        float y = transform.position.y;
+
 
         if (Input.GetKey(KeyCode.LeftShift))
         {
@@ -25,16 +30,17 @@ public class MovementKeyboard : MonoBehaviour
             speed = 12f;
         }
 
-        if (Input.GetKeyDown(KeyCode.Space))
+        yspeed += Physics.gravity.y * Time.deltaTime;
+
+        if(Input.GetButtonDown("Jump"))
         {
-            y = 5;
+            yspeed = y;
         }
-        else
-        {
-            move = transform.up * y;
-        }
+        
+
 
         move = transform.right * x + transform.forward * z;
+        move.y = yspeed;
 
         controller.Move(move * speed * Time.deltaTime);
 

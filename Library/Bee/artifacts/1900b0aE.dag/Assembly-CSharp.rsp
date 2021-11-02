@@ -322,6 +322,7 @@
 "Assets/Scripts/EnemyMovement.cs"
 "Assets/Scripts/MovementKeyboard.cs"
 "Assets/Scripts/MovementMouse.cs"
+"Assets/Scripts/PlayerHealth.cs"
 -langversion:8.0
 
 /deterministic

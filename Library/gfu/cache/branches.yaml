@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1666186674, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 2
+  lastUpdatedAtString: 2021-11-03T10:55:55.505+01:00
+  initializedAtString: 2021-11-03T10:23:28.564+01:00
+  localBranches:
+  - name: main
+    tracking: origin/main
+  - name: Tobi
+    tracking: origin/Tobi
+  remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/Leon
+    tracking: '[None]'
+  - name: origin/main
+    tracking: '[None]'
+  - name: origin/Tobi
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/Tobitothe1st/SWP-Jahresprojekt-Unity.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - main
+    - Tobi
+    values:
+    - name: main
+      remote:
+        name: origin
+        url: https://github.com/Tobitothe1st/SWP-Jahresprojekt-Unity.git
+      trackingBranch: main
+    - name: Tobi
+      remote:
+        name: origin
+        url: https://github.com/Tobitothe1st/SWP-Jahresprojekt-Unity.git
+      trackingBranch: Tobi
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - HEAD
+      - Leon
+      - main
+      - Tobi
+    subKeyValues:
+    - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/Tobitothe1st/SWP-Jahresprojekt-Unity.git
+        trackingBranch: 
+      - name: Leon
+        remote:
+          name: origin
+          url: https://github.com/Tobitothe1st/SWP-Jahresprojekt-Unity.git
+        trackingBranch: 
+      - name: main
+        remote:
+          name: origin
+          url: https://github.com/Tobitothe1st/SWP-Jahresprojekt-Unity.git
+        trackingBranch: 
+      - name: Tobi
+        remote:
+          name: origin
+          url: https://github.com/Tobitothe1st/SWP-Jahresprojekt-Unity.git
+        trackingBranch: 
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/Tobitothe1st/SWP-Jahresprojekt-Unity.git

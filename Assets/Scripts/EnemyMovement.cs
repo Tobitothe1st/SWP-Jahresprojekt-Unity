@@ -6,31 +6,19 @@ public class EnemyMovement : MonoBehaviour
 {
 
     public Transform EnemyBody;
-    public float speed = 10;
-    public GameObject player;
-    public Vector3 move;
+    public Transform player;
+    public float move = 5f;
+    public float detectionRange = 20f;
 
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-
-
-    // Update is called once per frame
     void Update()
     {
-        float x = EnemyBody.transform.position.x;
-        float y = EnemyBody.transform.position.y;
-        float z = EnemyBody.transform.position.z;
 
-        move = transform.right * x + transform.forward * z + transform.up * y;
+        float range = Vector3.Distance(EnemyBody.position, player.position);
+        float speed = move * Time.deltaTime;
 
-        if(player.transform.position.x < 0)
+        if (range <= detectionRange)
         {
-
+                EnemyBody.position = Vector3.MoveTowards(EnemyBody.position, player.position, speed);
         }
     }
 }

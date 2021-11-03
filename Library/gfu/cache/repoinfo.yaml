@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-11-03T09:35:42.140+01:00
-  initializedAtString: 2021-11-03T09:35:42.140+01:00
+  lastUpdatedAtString: 2021-10-07T08:41:44.335+02:00
+  initializedAtString: 2021-10-07T08:41:44.335+02:00
   currentGitRemote:
     name: origin
     url: https://github.com/Tobitothe1st/SWP-Jahresprojekt-Unity.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: Tobi
-    tracking: origin/Tobi
+    name: main
+    tracking: origin/main
   currentConfigBranch:
-    name: Tobi
+    name: main
     remote:
       name: origin
       url: https://github.com/Tobitothe1st/SWP-Jahresprojekt-Unity.git
-    trackingBranch: Tobi
+    trackingBranch: main
   currentConfigRemote:
     name: origin
     url: https://github.com/Tobitothe1st/SWP-Jahresprojekt-Unity.git

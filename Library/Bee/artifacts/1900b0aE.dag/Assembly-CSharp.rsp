@@ -321,11 +321,13 @@
 "Assets/Extern Assets/IgniteCoders/Simple Water Shader/Info/Scripts/Readme.cs"
 "Assets/Extern Assets/Rocks and Boulders 2/Shaders/RotateGameObject.cs"
 "Assets/Scripts/EnemyMovement.cs"
+"Assets/Scripts/Menu.cs"
 "Assets/Scripts/MovementKeyboard.cs"
 "Assets/Scripts/MovementMouse.cs"
+"Assets/Scripts/OpenMenu.cs"
 "Assets/Scripts/PickUpItem.cs"
 "Assets/Scripts/PlayerHealth.cs"
-"Assets/Scripts/SwitchCam.cs"
+"Assets/Scripts/ThirdPerson.cs"
 -langversion:8.0
 
 /deterministic

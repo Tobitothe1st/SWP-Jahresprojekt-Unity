@@ -13,589 +13,363 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-11-17T10:58:36.912+01:00
-  initializedAtString: 2021-11-17T10:29:44.080+01:00
+  lastUpdatedAtString: 2021-11-18T07:36:26.976+01:00
+  initializedAtString: 2021-11-18T07:36:25.016+01:00
   entries:
-  - path: .vs\SWP-Jahresprojekt-Unity\v16\.suo
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\.vs\SWP-Jahresprojekt-Unity\v16\.suo
-    projectPath: .vs\SWP-Jahresprojekt-Unity\v16\.suo
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Assembly-CSharp.csproj
     fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assembly-CSharp.csproj
     projectPath: Assembly-CSharp.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assembly-CSharp-Editor.csproj
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assembly-CSharp-Editor.csproj
-    projectPath: Assembly-CSharp-Editor.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\SaveGame.meta
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame.meta
-    projectPath: Assets\SaveGame.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Documentation.meta
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Documentation.meta
-    projectPath: Assets\SaveGame\Documentation.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Documentation\1.jpg
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Documentation\1.jpg
-    projectPath: Assets\SaveGame\Documentation\1.jpg
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Documentation\1.jpg.meta
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Documentation\1.jpg.meta
-    projectPath: Assets\SaveGame\Documentation\1.jpg.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Documentation\get.jpg
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Documentation\get.jpg
-    projectPath: Assets\SaveGame\Documentation\get.jpg
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Documentation\get.jpg.meta
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Documentation\get.jpg.meta
-    projectPath: Assets\SaveGame\Documentation\get.jpg.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Documentation\Save Game.pdf
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Documentation\Save
-      Game.pdf
-    projectPath: Assets\SaveGame\Documentation\Save Game.pdf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Documentation\Save Game.pdf.meta
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Documentation\Save
-      Game.pdf.meta
-    projectPath: Assets\SaveGame\Documentation\Save Game.pdf.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Documentation\set.jpg
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Documentation\set.jpg
-    projectPath: Assets\SaveGame\Documentation\set.jpg
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Documentation\set.jpg.meta
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Documentation\set.jpg.meta
-    projectPath: Assets\SaveGame\Documentation\set.jpg.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Prefab.meta
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Prefab.meta
-    projectPath: Assets\SaveGame\Prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Prefab\Save System Setup.prefab
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Prefab\Save
-      System Setup.prefab
-    projectPath: Assets\SaveGame\Prefab\Save System Setup.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Prefab\Save System Setup.prefab.meta
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Prefab\Save
-      System Setup.prefab.meta
-    projectPath: Assets\SaveGame\Prefab\Save System Setup.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Prefab\TestSaveGame.prefab
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Prefab\TestSaveGame.prefab
-    projectPath: Assets\SaveGame\Prefab\TestSaveGame.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Prefab\TestSaveGame.prefab.meta
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Prefab\TestSaveGame.prefab.meta
-    projectPath: Assets\SaveGame\Prefab\TestSaveGame.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Scene.meta
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Scene.meta
-    projectPath: Assets\SaveGame\Scene.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Scene\Scene1.unity
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Scene\Scene1.unity
-    projectPath: Assets\SaveGame\Scene\Scene1.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Scene\Scene1.unity.meta
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Scene\Scene1.unity.meta
-    projectPath: Assets\SaveGame\Scene\Scene1.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Scripts.meta
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Scripts.meta
-    projectPath: Assets\SaveGame\Scripts.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Scripts\SaveSystem.meta
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Scripts\SaveSystem.meta
-    projectPath: Assets\SaveGame\Scripts\SaveSystem.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Scripts\SaveSystem\SaveSystem.cs
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Scripts\SaveSystem\SaveSystem.cs
-    projectPath: Assets\SaveGame\Scripts\SaveSystem\SaveSystem.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Scripts\SaveSystem\SaveSystem.cs.meta
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Scripts\SaveSystem\SaveSystem.cs.meta
-    projectPath: Assets\SaveGame\Scripts\SaveSystem\SaveSystem.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Scripts\SaveSystem\SaveSystemData.cs
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Scripts\SaveSystem\SaveSystemData.cs
-    projectPath: Assets\SaveGame\Scripts\SaveSystem\SaveSystemData.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Scripts\SaveSystem\SaveSystemData.cs.meta
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Scripts\SaveSystem\SaveSystemData.cs.meta
-    projectPath: Assets\SaveGame\Scripts\SaveSystem\SaveSystemData.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Scripts\SaveSystemSetup.cs
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Scripts\SaveSystemSetup.cs
-    projectPath: Assets\SaveGame\Scripts\SaveSystemSetup.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Scripts\SaveSystemSetup.cs.meta
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Scripts\SaveSystemSetup.cs.meta
-    projectPath: Assets\SaveGame\Scripts\SaveSystemSetup.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Scripts\TestSaveGame.cs
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Scripts\TestSaveGame.cs
-    projectPath: Assets\SaveGame\Scripts\TestSaveGame.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveGame\Scripts\TestSaveGame.cs.meta
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\SaveGame\Scripts\TestSaveGame.cs.meta
-    projectPath: Assets\SaveGame\Scripts\TestSaveGame.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\SaveGame.cs
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\Scripts\SaveGame.cs
-    projectPath: Assets\Scripts\SaveGame.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\SaveGame.cs.meta
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\Scripts\SaveGame.cs.meta
-    projectPath: Assets\Scripts\SaveGame.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\03\037b391a26ae5caf57d40fb2974f1a43
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\03\037b391a26ae5caf57d40fb2974f1a43
-    projectPath: Library\Artifacts\03\037b391a26ae5caf57d40fb2974f1a43
+  - path: Library\Artifacts\00\001cc60d9aae450631921c042927bada
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\00\001cc60d9aae450631921c042927bada
+    projectPath: Library\Artifacts\00\001cc60d9aae450631921c042927bada
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\0a\0a9f046f5edb7c708bb019f4da597ee6
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\0a\0a9f046f5edb7c708bb019f4da597ee6
-    projectPath: Library\Artifacts\0a\0a9f046f5edb7c708bb019f4da597ee6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\0c\0c298fda0d42026bbc01ee0afec24ef1
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\0c\0c298fda0d42026bbc01ee0afec24ef1
-    projectPath: Library\Artifacts\0c\0c298fda0d42026bbc01ee0afec24ef1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\0c\0c79460aa01a9a387650d4a297984a88
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\0c\0c79460aa01a9a387650d4a297984a88
-    projectPath: Library\Artifacts\0c\0c79460aa01a9a387650d4a297984a88
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\12\1240aea8cddd6b68a03fd634d3888f29
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\12\1240aea8cddd6b68a03fd634d3888f29
-    projectPath: Library\Artifacts\12\1240aea8cddd6b68a03fd634d3888f29
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\14\141a6567a89548011f3907788c39ac19
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\14\141a6567a89548011f3907788c39ac19
-    projectPath: Library\Artifacts\14\141a6567a89548011f3907788c39ac19
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\15\150a30571a9667f3409b1c2fec22242c
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\15\150a30571a9667f3409b1c2fec22242c
-    projectPath: Library\Artifacts\15\150a30571a9667f3409b1c2fec22242c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\18\18fd5220ff59ed93ed97e01b8cc608a6
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\18\18fd5220ff59ed93ed97e01b8cc608a6
-    projectPath: Library\Artifacts\18\18fd5220ff59ed93ed97e01b8cc608a6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\19\1900b2253ecb318645f63057a3d6a68c
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\19\1900b2253ecb318645f63057a3d6a68c
-    projectPath: Library\Artifacts\19\1900b2253ecb318645f63057a3d6a68c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1d\1dae585efe50f4d174782c19893ec96e
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\1d\1dae585efe50f4d174782c19893ec96e
-    projectPath: Library\Artifacts\1d\1dae585efe50f4d174782c19893ec96e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1e\1ed5d4f3ce1bb35b320ef0308fa91662
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\1e\1ed5d4f3ce1bb35b320ef0308fa91662
-    projectPath: Library\Artifacts\1e\1ed5d4f3ce1bb35b320ef0308fa91662
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\22\22da05f530a650bba15e06a3e7d10cf0
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\22\22da05f530a650bba15e06a3e7d10cf0
-    projectPath: Library\Artifacts\22\22da05f530a650bba15e06a3e7d10cf0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\24\2401a432e5ff659a273bfbebbc350ae3
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\24\2401a432e5ff659a273bfbebbc350ae3
-    projectPath: Library\Artifacts\24\2401a432e5ff659a273bfbebbc350ae3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\2e\2e55de53bb95892d94436ae5c870fa2b
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\2e\2e55de53bb95892d94436ae5c870fa2b
-    projectPath: Library\Artifacts\2e\2e55de53bb95892d94436ae5c870fa2b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\30\30afb9a4d61f8dba39afb2e26f8c2001
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\30\30afb9a4d61f8dba39afb2e26f8c2001
-    projectPath: Library\Artifacts\30\30afb9a4d61f8dba39afb2e26f8c2001
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\31\31be03e5d468363ecaddf20407ea7d6c
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\31\31be03e5d468363ecaddf20407ea7d6c
-    projectPath: Library\Artifacts\31\31be03e5d468363ecaddf20407ea7d6c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\34\34a3122957c2dacb7d7148c45f4a4357
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\34\34a3122957c2dacb7d7148c45f4a4357
-    projectPath: Library\Artifacts\34\34a3122957c2dacb7d7148c45f4a4357
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\39\393823367c6015fae224019dde5ed156
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\39\393823367c6015fae224019dde5ed156
-    projectPath: Library\Artifacts\39\393823367c6015fae224019dde5ed156
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3b\3bad433a6e6fe630ebd42b03c4234a2c
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\3b\3bad433a6e6fe630ebd42b03c4234a2c
-    projectPath: Library\Artifacts\3b\3bad433a6e6fe630ebd42b03c4234a2c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3c\3c16a9b7c646d6239d1a0e75d2361f8d
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\3c\3c16a9b7c646d6239d1a0e75d2361f8d
-    projectPath: Library\Artifacts\3c\3c16a9b7c646d6239d1a0e75d2361f8d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3d\3d664966fc2575b5dbc22875b845a07b
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\3d\3d664966fc2575b5dbc22875b845a07b
-    projectPath: Library\Artifacts\3d\3d664966fc2575b5dbc22875b845a07b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3d\3dbeea5558122dfbea1b04fe3072672e
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\3d\3dbeea5558122dfbea1b04fe3072672e
-    projectPath: Library\Artifacts\3d\3dbeea5558122dfbea1b04fe3072672e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\41\4159fe9f19abb7d8103302f58da951b7
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\41\4159fe9f19abb7d8103302f58da951b7
-    projectPath: Library\Artifacts\41\4159fe9f19abb7d8103302f58da951b7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\44\448fd0131a61b0cbb8869aa8ec29ced7
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\44\448fd0131a61b0cbb8869aa8ec29ced7
-    projectPath: Library\Artifacts\44\448fd0131a61b0cbb8869aa8ec29ced7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\45\4544aa7e6e3798e978b189ba34c34e84
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\45\4544aa7e6e3798e978b189ba34c34e84
-    projectPath: Library\Artifacts\45\4544aa7e6e3798e978b189ba34c34e84
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\47\47a0d37bdb3c76e9040c6fa50b71f59c
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\47\47a0d37bdb3c76e9040c6fa50b71f59c
-    projectPath: Library\Artifacts\47\47a0d37bdb3c76e9040c6fa50b71f59c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\4a\4a191915b74cabc749d5a2d28dabe15e
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\4a\4a191915b74cabc749d5a2d28dabe15e
-    projectPath: Library\Artifacts\4a\4a191915b74cabc749d5a2d28dabe15e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\4f\4f4ed19d36b58e147785457006260a9c
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\4f\4f4ed19d36b58e147785457006260a9c
-    projectPath: Library\Artifacts\4f\4f4ed19d36b58e147785457006260a9c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\4f\4f507948a1bd647a96bc4ccc178b4caa
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\4f\4f507948a1bd647a96bc4ccc178b4caa
-    projectPath: Library\Artifacts\4f\4f507948a1bd647a96bc4ccc178b4caa
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\75\75d71e1c878bdc113bd2a9d1486914c2
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\75\75d71e1c878bdc113bd2a9d1486914c2
-    projectPath: Library\Artifacts\75\75d71e1c878bdc113bd2a9d1486914c2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\76\763f5e5a316f8b2ebdf63380c2c34ad2
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\76\763f5e5a316f8b2ebdf63380c2c34ad2
-    projectPath: Library\Artifacts\76\763f5e5a316f8b2ebdf63380c2c34ad2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\78\78742ad10f5e727b3318d9499f9cac4b
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\78\78742ad10f5e727b3318d9499f9cac4b
-    projectPath: Library\Artifacts\78\78742ad10f5e727b3318d9499f9cac4b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\98\98256d5bb3441d5139569959e64cb512
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\98\98256d5bb3441d5139569959e64cb512
-    projectPath: Library\Artifacts\98\98256d5bb3441d5139569959e64cb512
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\9b\9b27aad3d0193656acd7ab85e0bd87a6
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\9b\9b27aad3d0193656acd7ab85e0bd87a6
-    projectPath: Library\Artifacts\9b\9b27aad3d0193656acd7ab85e0bd87a6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\9c\9cbfd17d3a3332253d8cf91cc8670592
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\9c\9cbfd17d3a3332253d8cf91cc8670592
-    projectPath: Library\Artifacts\9c\9cbfd17d3a3332253d8cf91cc8670592
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\9d\9df5907cf9bd80a26e093916b57395b9
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\9d\9df5907cf9bd80a26e093916b57395b9
-    projectPath: Library\Artifacts\9d\9df5907cf9bd80a26e093916b57395b9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a1\a1600f236ee85dda6948da6157e136a2
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\a1\a1600f236ee85dda6948da6157e136a2
-    projectPath: Library\Artifacts\a1\a1600f236ee85dda6948da6157e136a2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a7\a7afe2fc9b4f9174ccd7b8eb9c013990
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\a7\a7afe2fc9b4f9174ccd7b8eb9c013990
-    projectPath: Library\Artifacts\a7\a7afe2fc9b4f9174ccd7b8eb9c013990
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a8\a82ceff1fc4c0bfafd1afb13363b1102
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\a8\a82ceff1fc4c0bfafd1afb13363b1102
-    projectPath: Library\Artifacts\a8\a82ceff1fc4c0bfafd1afb13363b1102
+  - path: Library\Artifacts\02\02a565cdde21c6e026a47d53aa75378b
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\02\02a565cdde21c6e026a47d53aa75378b
+    projectPath: Library\Artifacts\02\02a565cdde21c6e026a47d53aa75378b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\af\af40e7b8842a28b94455ccd5a558051d
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\af\af40e7b8842a28b94455ccd5a558051d
-    projectPath: Library\Artifacts\af\af40e7b8842a28b94455ccd5a558051d
+  - path: Library\Artifacts\07\075d5752fe03c1478c1627288831cda9
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\07\075d5752fe03c1478c1627288831cda9
+    projectPath: Library\Artifacts\07\075d5752fe03c1478c1627288831cda9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\0e\0ee1fcaad7012cfad5607a536b34398e
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\0e\0ee1fcaad7012cfad5607a536b34398e
+    projectPath: Library\Artifacts\0e\0ee1fcaad7012cfad5607a536b34398e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\18\18235776e134c88f2cc0cab73b111b14
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\18\18235776e134c88f2cc0cab73b111b14
+    projectPath: Library\Artifacts\18\18235776e134c88f2cc0cab73b111b14
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Library\Artifacts\19\1901800af6c1892c78da74d3de047ec8
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\19\1901800af6c1892c78da74d3de047ec8
+    projectPath: Library\Artifacts\19\1901800af6c1892c78da74d3de047ec8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\1b\1b4ba09572be1ff04b379e99ea29b4b0
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\1b\1b4ba09572be1ff04b379e99ea29b4b0
+    projectPath: Library\Artifacts\1b\1b4ba09572be1ff04b379e99ea29b4b0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\1f\1f6dc1350378a0af73ded790e8c1af32
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\1f\1f6dc1350378a0af73ded790e8c1af32
+    projectPath: Library\Artifacts\1f\1f6dc1350378a0af73ded790e8c1af32
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\22\226f88becf57171dbebf21983e425a8b
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\22\226f88becf57171dbebf21983e425a8b
+    projectPath: Library\Artifacts\22\226f88becf57171dbebf21983e425a8b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\23\23318cf341f8825ea7fcbbc8c3c438ef
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\23\23318cf341f8825ea7fcbbc8c3c438ef
+    projectPath: Library\Artifacts\23\23318cf341f8825ea7fcbbc8c3c438ef
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\24\24c083f739971eae15bf08a2cab45088
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\24\24c083f739971eae15bf08a2cab45088
+    projectPath: Library\Artifacts\24\24c083f739971eae15bf08a2cab45088
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\26\2678e0ee37bf1d23b8538c62b9ac21a6
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\26\2678e0ee37bf1d23b8538c62b9ac21a6
+    projectPath: Library\Artifacts\26\2678e0ee37bf1d23b8538c62b9ac21a6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\2d\2de64e2eec10a58309965a5603c35e54
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\2d\2de64e2eec10a58309965a5603c35e54
+    projectPath: Library\Artifacts\2d\2de64e2eec10a58309965a5603c35e54
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\2f\2f57e1ae8981fe891d22aa61b3dcc66a
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\2f\2f57e1ae8981fe891d22aa61b3dcc66a
+    projectPath: Library\Artifacts\2f\2f57e1ae8981fe891d22aa61b3dcc66a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\32\3280c7671b220b18afe57965afc5df6a
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\32\3280c7671b220b18afe57965afc5df6a
+    projectPath: Library\Artifacts\32\3280c7671b220b18afe57965afc5df6a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\35\350f4ac98ec8e7e3f0673b031892ef86
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\35\350f4ac98ec8e7e3f0673b031892ef86
+    projectPath: Library\Artifacts\35\350f4ac98ec8e7e3f0673b031892ef86
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\37\375a162418f31935ce2273c47e8d86cc
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\37\375a162418f31935ce2273c47e8d86cc
+    projectPath: Library\Artifacts\37\375a162418f31935ce2273c47e8d86cc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\3d\3dadf98674e9fe12ff96f6f5fa71713f
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\3d\3dadf98674e9fe12ff96f6f5fa71713f
+    projectPath: Library\Artifacts\3d\3dadf98674e9fe12ff96f6f5fa71713f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\3e\3e1dba5428c295f866b0790699431348
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\3e\3e1dba5428c295f866b0790699431348
+    projectPath: Library\Artifacts\3e\3e1dba5428c295f866b0790699431348
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\3f\3fb3bc8f29f11f6d6493a381f7fded0e
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\3f\3fb3bc8f29f11f6d6493a381f7fded0e
+    projectPath: Library\Artifacts\3f\3fb3bc8f29f11f6d6493a381f7fded0e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\40\408caad7f8cc44e052e07565651b7b4d
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\40\408caad7f8cc44e052e07565651b7b4d
+    projectPath: Library\Artifacts\40\408caad7f8cc44e052e07565651b7b4d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\49\4961b98b03a3325487cea833313859c5
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\49\4961b98b03a3325487cea833313859c5
+    projectPath: Library\Artifacts\49\4961b98b03a3325487cea833313859c5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\4b\4b23d40f3a76da33c3252fdf78807e62
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\4b\4b23d40f3a76da33c3252fdf78807e62
+    projectPath: Library\Artifacts\4b\4b23d40f3a76da33c3252fdf78807e62
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\4c\4c268f764981933fbacd576efef4c6be
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\4c\4c268f764981933fbacd576efef4c6be
+    projectPath: Library\Artifacts\4c\4c268f764981933fbacd576efef4c6be
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\4f\4f16bd6f7fab1433cfac25f3a1beb6b5
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\4f\4f16bd6f7fab1433cfac25f3a1beb6b5
+    projectPath: Library\Artifacts\4f\4f16bd6f7fab1433cfac25f3a1beb6b5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\4f\4f4d3abaad2827ea2369dbe6a1570078
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\4f\4f4d3abaad2827ea2369dbe6a1570078
+    projectPath: Library\Artifacts\4f\4f4d3abaad2827ea2369dbe6a1570078
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
+    projectPath: Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\5c\5c03da4f81a5932faaab9865654e72aa
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\5c\5c03da4f81a5932faaab9865654e72aa
+    projectPath: Library\Artifacts\5c\5c03da4f81a5932faaab9865654e72aa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\5c\5c2daa94fe11d3b8277594fb1a33c8ed
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\5c\5c2daa94fe11d3b8277594fb1a33c8ed
+    projectPath: Library\Artifacts\5c\5c2daa94fe11d3b8277594fb1a33c8ed
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\5f\5f00ef5c2faeb02d920969ed5a3ff48e
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\5f\5f00ef5c2faeb02d920969ed5a3ff48e
+    projectPath: Library\Artifacts\5f\5f00ef5c2faeb02d920969ed5a3ff48e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\61\6193bed9d4315e99ad4405df0bc27fcc
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\61\6193bed9d4315e99ad4405df0bc27fcc
+    projectPath: Library\Artifacts\61\6193bed9d4315e99ad4405df0bc27fcc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\63\63f60d3c884366fe76b1cb88c213733f
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\63\63f60d3c884366fe76b1cb88c213733f
+    projectPath: Library\Artifacts\63\63f60d3c884366fe76b1cb88c213733f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\67\6777bebd515b42d570215ee7a2c8ca4a
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\67\6777bebd515b42d570215ee7a2c8ca4a
+    projectPath: Library\Artifacts\67\6777bebd515b42d570215ee7a2c8ca4a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\6d\6d3b1900242964f58c9e679b5e56fedc
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\6d\6d3b1900242964f58c9e679b5e56fedc
+    projectPath: Library\Artifacts\6d\6d3b1900242964f58c9e679b5e56fedc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\71\71b8637d2238c01f14ff14de97411265
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\71\71b8637d2238c01f14ff14de97411265
+    projectPath: Library\Artifacts\71\71b8637d2238c01f14ff14de97411265
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\82\823f130a9f2b2dc95a6b2433137d775e
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\82\823f130a9f2b2dc95a6b2433137d775e
+    projectPath: Library\Artifacts\82\823f130a9f2b2dc95a6b2433137d775e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\83\8395bb4b8b4487481c9f81b72d27626c
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\83\8395bb4b8b4487481c9f81b72d27626c
+    projectPath: Library\Artifacts\83\8395bb4b8b4487481c9f81b72d27626c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\8a\8ab6e773d86a958bdc172ad8f57e5026
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\8a\8ab6e773d86a958bdc172ad8f57e5026
+    projectPath: Library\Artifacts\8a\8ab6e773d86a958bdc172ad8f57e5026
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\90\9067bfed8e09ee3fc5b7521d79ebfc38
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\90\9067bfed8e09ee3fc5b7521d79ebfc38
+    projectPath: Library\Artifacts\90\9067bfed8e09ee3fc5b7521d79ebfc38
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\91\91d827745e035407862d198f46fe4e2d
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\91\91d827745e035407862d198f46fe4e2d
+    projectPath: Library\Artifacts\91\91d827745e035407862d198f46fe4e2d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\9c\9ccdd268e0911a110b057de21fdcaa82
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\9c\9ccdd268e0911a110b057de21fdcaa82
+    projectPath: Library\Artifacts\9c\9ccdd268e0911a110b057de21fdcaa82
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\9f\9fcd8ef9fc3d0d6c5dd689fb6f80a74c
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\9f\9fcd8ef9fc3d0d6c5dd689fb6f80a74c
+    projectPath: Library\Artifacts\9f\9fcd8ef9fc3d0d6c5dd689fb6f80a74c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\a0\a07b6b11da3f948f8916c8c1b66b9df8
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\a0\a07b6b11da3f948f8916c8c1b66b9df8
+    projectPath: Library\Artifacts\a0\a07b6b11da3f948f8916c8c1b66b9df8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\a0\a09ef9a1890ca86c156e97d7b129744d
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\a0\a09ef9a1890ca86c156e97d7b129744d
+    projectPath: Library\Artifacts\a0\a09ef9a1890ca86c156e97d7b129744d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\aa\aafd10c098ee57ed8a1434181071f73b
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\aa\aafd10c098ee57ed8a1434181071f73b
+    projectPath: Library\Artifacts\aa\aafd10c098ee57ed8a1434181071f73b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ab\ab805965a5cf92d4159e92c986637154
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\ab\ab805965a5cf92d4159e92c986637154
+    projectPath: Library\Artifacts\ab\ab805965a5cf92d4159e92c986637154
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ae\ae78bd29696670c67d72e9a968121e3e
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\ae\ae78bd29696670c67d72e9a968121e3e
+    projectPath: Library\Artifacts\ae\ae78bd29696670c67d72e9a968121e3e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\b3\b3bf2bc23444ee6727c2e2284e8a2c88
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\b3\b3bf2bc23444ee6727c2e2284e8a2c88
+    projectPath: Library\Artifacts\b3\b3bf2bc23444ee6727c2e2284e8a2c88
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\b4\b4b7cc30edadf3c1cd899029f3896bce
     fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\b4\b4b7cc30edadf3c1cd899029f3896bce
     projectPath: Library\Artifacts\b4\b4b7cc30edadf3c1cd899029f3896bce
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\bb\bb87104118504234551e2f75eecdfcd1
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\bb\bb87104118504234551e2f75eecdfcd1
-    projectPath: Library\Artifacts\bb\bb87104118504234551e2f75eecdfcd1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\b8\b89621adb057300ebd093619dff89433
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\b8\b89621adb057300ebd093619dff89433
+    projectPath: Library\Artifacts\b8\b89621adb057300ebd093619dff89433
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\db\db3144ef62c7104d42cfb56bb87c9b10
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\db\db3144ef62c7104d42cfb56bb87c9b10
+    projectPath: Library\Artifacts\db\db3144ef62c7104d42cfb56bb87c9b10
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\db\dbe2bdb9a0206dd966f336afba997d48
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\db\dbe2bdb9a0206dd966f336afba997d48
+    projectPath: Library\Artifacts\db\dbe2bdb9a0206dd966f336afba997d48
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\c0\c06ebd77f1f82ed6bfb593d0c1521d16
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\c0\c06ebd77f1f82ed6bfb593d0c1521d16
-    projectPath: Library\Artifacts\c0\c06ebd77f1f82ed6bfb593d0c1521d16
+  - path: Library\Artifacts\e2\e2f48ca4495102f9b88493d693c35531
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\e2\e2f48ca4495102f9b88493d693c35531
+    projectPath: Library\Artifacts\e2\e2f48ca4495102f9b88493d693c35531
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f4\f4ad972ac2b4af34e7d003b6c11cddfa
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\f4\f4ad972ac2b4af34e7d003b6c11cddfa
+    projectPath: Library\Artifacts\f4\f4ad972ac2b4af34e7d003b6c11cddfa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f6\f6549e8a4f4b79395a0d56d0bac80527
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\f6\f6549e8a4f4b79395a0d56d0bac80527
+    projectPath: Library\Artifacts\f6\f6549e8a4f4b79395a0d56d0bac80527
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\c2\c222bc21a3276dbb871119ff700e57d3
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\c2\c222bc21a3276dbb871119ff700e57d3
-    projectPath: Library\Artifacts\c2\c222bc21a3276dbb871119ff700e57d3
+  - path: Library\Artifacts\fe\fe82fced716c481114d3a2a4ff515823
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\fe\fe82fced716c481114d3a2a4ff515823
+    projectPath: Library\Artifacts\fe\fe82fced716c481114d3a2a4ff515823
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c3\c379d2e2dcb39b62efd0d2dd3669effb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\c3\c379d2e2dcb39b62efd0d2dd3669effb
-    projectPath: Library\Artifacts\c3\c379d2e2dcb39b62efd0d2dd3669effb
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ff\ff52c80947f6346f79c4e6d2bcc521be
+    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\ff\ff52c80947f6346f79c4e6d2bcc521be
+    projectPath: Library\Artifacts\ff\ff52c80947f6346f79c4e6d2bcc521be
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c7\c75ac47803a55047c1cce437f1bd32ac
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\c7\c75ac47803a55047c1cce437f1bd32ac
-    projectPath: Library\Artifacts\c7\c75ac47803a55047c1cce437f1bd32ac
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d0\d0411569d98d5917f0031bca857782b1
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\d0\d0411569d98d5917f0031bca857782b1
-    projectPath: Library\Artifacts\d0\d0411569d98d5917f0031bca857782b1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d3\d38aab87e48d6a1e10f27dadeb9e627b
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\d3\d38aab87e48d6a1e10f27dadeb9e627b
-    projectPath: Library\Artifacts\d3\d38aab87e48d6a1e10f27dadeb9e627b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d8\d8e7e4bd6e90a0082899b8000944bc4a
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\d8\d8e7e4bd6e90a0082899b8000944bc4a
-    projectPath: Library\Artifacts\d8\d8e7e4bd6e90a0082899b8000944bc4a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\db\dbb38a717010808ed336161a131b211b
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\db\dbb38a717010808ed336161a131b211b
-    projectPath: Library\Artifacts\db\dbb38a717010808ed336161a131b211b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\dc\dcf71088cd4c4331277e1407b898cee1
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\dc\dcf71088cd4c4331277e1407b898cee1
-    projectPath: Library\Artifacts\dc\dcf71088cd4c4331277e1407b898cee1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e5\e54ce7b2bf51a54f8ed3cf3c4a99ffa0
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\e5\e54ce7b2bf51a54f8ed3cf3c4a99ffa0
-    projectPath: Library\Artifacts\e5\e54ce7b2bf51a54f8ed3cf3c4a99ffa0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e7\e717e2be54761f32183fcdb4bc1b6427
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\e7\e717e2be54761f32183fcdb4bc1b6427
-    projectPath: Library\Artifacts\e7\e717e2be54761f32183fcdb4bc1b6427
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\eb\eb0e455bd42689d071f370054ad361f4
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\eb\eb0e455bd42689d071f370054ad361f4
-    projectPath: Library\Artifacts\eb\eb0e455bd42689d071f370054ad361f4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ec\ec607ad157ab6807188a3afdd9b371d3
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\ec\ec607ad157ab6807188a3afdd9b371d3
-    projectPath: Library\Artifacts\ec\ec607ad157ab6807188a3afdd9b371d3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ef\ef9146dbb23137689d7b65833987feae
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\ef\ef9146dbb23137689d7b65833987feae
-    projectPath: Library\Artifacts\ef\ef9146dbb23137689d7b65833987feae
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f2\f2d9019e51170342f24bf3d60ae3c33c
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\f2\f2d9019e51170342f24bf3d60ae3c33c
-    projectPath: Library\Artifacts\f2\f2d9019e51170342f24bf3d60ae3c33c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f7\f7261c16796793a834389127e6827ea2
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\f7\f7261c16796793a834389127e6827ea2
-    projectPath: Library\Artifacts\f7\f7261c16796793a834389127e6827ea2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f7\f75b1e817689665fe1b549bb2187de14
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\f7\f75b1e817689665fe1b549bb2187de14
-    projectPath: Library\Artifacts\f7\f75b1e817689665fe1b549bb2187de14
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\fa\fa210289280b90d9c8bf4b472a83a653
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\fa\fa210289280b90d9c8bf4b472a83a653
-    projectPath: Library\Artifacts\fa\fa210289280b90d9c8bf4b472a83a653
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ff\ff3ce1bcaf0ce8d3fc3b4583e6f18b5f
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\ff\ff3ce1bcaf0ce8d3fc3b4583e6f18b5f
-    projectPath: Library\Artifacts\ff\ff3ce1bcaf0ce8d3fc3b4583e6f18b5f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Bee\1900b0aE.dag
     fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\1900b0aE.dag
     projectPath: Library\Bee\1900b0aE.dag
@@ -608,33 +382,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Bee\1900b0aE.dag_derived
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\1900b0aE.dag_derived
-    projectPath: Library\Bee\1900b0aE.dag_derived
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\Bee\1900b0aE.dag_fsmtime
     fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\1900b0aE.dag_fsmtime
     projectPath: Library\Bee\1900b0aE.dag_fsmtime
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Bee\1900b0aE-inputdata.json
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\1900b0aE-inputdata.json
-    projectPath: Library\Bee\1900b0aE-inputdata.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
     fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll.movedfrom.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll.movedfrom.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll.movedfrom.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -650,1554 +406,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor.dll.movedfrom.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor.dll.movedfrom.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor.dll.movedfrom.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.movedfrom.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.movedfrom.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.movedfrom.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll.movedfrom.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll.movedfrom.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll.movedfrom.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.dll.movedfrom.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.dll.movedfrom.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.dll.movedfrom.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.dll.movedfrom.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.dll.movedfrom.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.dll.movedfrom.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll.movedfrom.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll.movedfrom.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll.movedfrom.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll.movedfrom.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll.movedfrom.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll.movedfrom.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll.movedfrom.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll.movedfrom.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll.movedfrom.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll.movedfrom.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll.movedfrom.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll.movedfrom.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.dll.movedfrom.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.dll.movedfrom.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.dll.movedfrom.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.dll.movedfrom.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.dll.movedfrom.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.dll.movedfrom.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.dll.movedfrom.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.dll.movedfrom.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.dll.movedfrom.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.dll.movedfrom.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.dll.movedfrom.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.dll.movedfrom.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.dll.movedfrom.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.dll.movedfrom.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.dll.movedfrom.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.dll.movedfrom.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.dll.movedfrom.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.dll.movedfrom.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.dll.movedfrom.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.dll.movedfrom.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.dll.movedfrom.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll.movedfrom.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll.movedfrom.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll.movedfrom.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.dll.movedfrom.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.dll.movedfrom.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.dll.movedfrom.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll.movedfrom.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll.movedfrom.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll.movedfrom.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.dll.movedfrom.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.dll.movedfrom.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.dll.movedfrom.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll.movedfrom.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll.movedfrom.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll.movedfrom.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\VSSettingsProvider.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\VSSettingsProvider.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\VSSettingsProvider.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\VSSettingsProvider.dll.movedfrom.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\VSSettingsProvider.dll.movedfrom.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\VSSettingsProvider.dll.movedfrom.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\VSSettingsProvider.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\VSSettingsProvider.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\VSSettingsProvider.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\VSSettingsProvider.rsp
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\1900b0aE.dag\VSSettingsProvider.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\VSSettingsProvider.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\movedfrom\Unity.Plastic.Antlr3.Runtime.dll_8301170175983072736.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\Unity.Plastic.Antlr3.Runtime.dll_8301170175983072736.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\Unity.Plastic.Antlr3.Runtime.dll_8301170175983072736.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\Unity.Plastic.Antlr3.Runtime.dll_8755721338754370192.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\Unity.Plastic.Antlr3.Runtime.dll_8755721338754370192.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\Unity.Plastic.Antlr3.Runtime.dll_8755721338754370192.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\Unity.Plastic.Newtonsoft.Json.dll_18363799862814736805.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\Unity.Plastic.Newtonsoft.Json.dll_18363799862814736805.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\Unity.Plastic.Newtonsoft.Json.dll_18363799862814736805.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\Unity.Plastic.Newtonsoft.Json.dll_2907231200221542741.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\Unity.Plastic.Newtonsoft.Json.dll_2907231200221542741.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\Unity.Plastic.Newtonsoft.Json.dll_2907231200221542741.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\Unity.VisualScripting.Antlr3.Runtime.dll_16782113805702761963.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\Unity.VisualScripting.Antlr3.Runtime.dll_16782113805702761963.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\Unity.VisualScripting.Antlr3.Runtime.dll_16782113805702761963.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\Unity.VisualScripting.Antlr3.Runtime.dll_4605713574043718043.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\Unity.VisualScripting.Antlr3.Runtime.dll_4605713574043718043.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\Unity.VisualScripting.Antlr3.Runtime.dll_4605713574043718043.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\Unity.VisualScripting.IonicZip.dll_7192979225493293488.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\Unity.VisualScripting.IonicZip.dll_7192979225493293488.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\Unity.VisualScripting.IonicZip.dll_7192979225493293488.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\Unity.VisualScripting.IonicZip.dll_7366865874398846720.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\Unity.VisualScripting.IonicZip.dll_7366865874398846720.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\Unity.VisualScripting.IonicZip.dll_7366865874398846720.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\Unity.VisualScripting.YamlDotNet.dll_10267539981950583164.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\Unity.VisualScripting.YamlDotNet.dll_10267539981950583164.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\Unity.VisualScripting.YamlDotNet.dll_10267539981950583164.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\Unity.VisualScripting.YamlDotNet.dll_3997196139900075468.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\Unity.VisualScripting.YamlDotNet.dll_3997196139900075468.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\Unity.VisualScripting.YamlDotNet.dll_3997196139900075468.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.Android.Extensions.dll_911486919829498543.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.Android.Extensions.dll_911486919829498543.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.Android.Extensions.dll_911486919829498543.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.CoreModule.dll_17339037763553189681.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.CoreModule.dll_17339037763553189681.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.CoreModule.dll_17339037763553189681.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.CoreModule.dll_3306580135756816807.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.CoreModule.dll_3306580135756816807.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.CoreModule.dll_3306580135756816807.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.DeviceSimulatorModule.dll_4267010760325664202.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.DeviceSimulatorModule.dll_4267010760325664202.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.DeviceSimulatorModule.dll_4267010760325664202.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.DeviceSimulatorModule.dll_8349145585079454816.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.DeviceSimulatorModule.dll_8349145585079454816.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.DeviceSimulatorModule.dll_8349145585079454816.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.dll_1915758850826257300.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.dll_1915758850826257300.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.dll_1915758850826257300.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.dll_3006925005120567102.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.dll_3006925005120567102.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.dll_3006925005120567102.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.Graphs.dll_16193243061056832729.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.Graphs.dll_16193243061056832729.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.Graphs.dll_16193243061056832729.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.Graphs.dll_16773309156223219811.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.Graphs.dll_16773309156223219811.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.Graphs.dll_16773309156223219811.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.GraphViewModule.dll_18203209199212347589.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.GraphViewModule.dll_18203209199212347589.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.GraphViewModule.dll_18203209199212347589.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.GraphViewModule.dll_3344156774759079535.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.GraphViewModule.dll_3344156774759079535.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.GraphViewModule.dll_3344156774759079535.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.PackageManagerUIModule.dll_10124658701556353357.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.PackageManagerUIModule.dll_10124658701556353357.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.PackageManagerUIModule.dll_10124658701556353357.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.PackageManagerUIModule.dll_1875516611072848963.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.PackageManagerUIModule.dll_1875516611072848963.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.PackageManagerUIModule.dll_1875516611072848963.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.QuickSearchModule.dll_14646351747722486535.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.QuickSearchModule.dll_14646351747722486535.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.QuickSearchModule.dll_14646351747722486535.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.QuickSearchModule.dll_17458046679054989809.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.QuickSearchModule.dll_17458046679054989809.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.QuickSearchModule.dll_17458046679054989809.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.SceneTemplateModule.dll_1008250333019836562.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.SceneTemplateModule.dll_1008250333019836562.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.SceneTemplateModule.dll_1008250333019836562.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.SceneTemplateModule.dll_14346368702605269096.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.SceneTemplateModule.dll_14346368702605269096.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.SceneTemplateModule.dll_14346368702605269096.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.UIBuilderModule.dll_5847773959216773625.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.UIBuilderModule.dll_5847773959216773625.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.UIBuilderModule.dll_5847773959216773625.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.UIBuilderModule.dll_9435465608473057187.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.UIBuilderModule.dll_9435465608473057187.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.UIBuilderModule.dll_9435465608473057187.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.UIElementsModule.dll_2437057000758863235.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.UIElementsModule.dll_2437057000758863235.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.UIElementsModule.dll_2437057000758863235.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.UIElementsModule.dll_5178786022308002509.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.UIElementsModule.dll_5178786022308002509.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.UIElementsModule.dll_5178786022308002509.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.UIElementsSamplesModule.dll_14722472731494130970.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.UIElementsSamplesModule.dll_14722472731494130970.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.UIElementsSamplesModule.dll_14722472731494130970.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.UIElementsSamplesModule.dll_4841643318745100912.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.UIElementsSamplesModule.dll_4841643318745100912.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.UIElementsSamplesModule.dll_4841643318745100912.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.UIServiceModule.dll_13538826935478183869.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.UIServiceModule.dll_13538826935478183869.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.UIServiceModule.dll_13538826935478183869.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.UIServiceModule.dll_9951135286221900307.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.UIServiceModule.dll_9951135286221900307.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.UIServiceModule.dll_9951135286221900307.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.UnityConnectModule.dll_14925073679147017831.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.UnityConnectModule.dll_14925073679147017831.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.UnityConnectModule.dll_14925073679147017831.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.UnityConnectModule.dll_7403274961572094941.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.UnityConnectModule.dll_7403274961572094941.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.UnityConnectModule.dll_7403274961572094941.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.WindowsStandalone.Extensions.dll_16745982689792601727.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.WindowsStandalone.Extensions.dll_16745982689792601727.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.WindowsStandalone.Extensions.dll_16745982689792601727.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEditor.WindowsStandalone.Extensions.dll_16920587480211233129.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEditor.WindowsStandalone.Extensions.dll_16920587480211233129.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEditor.WindowsStandalone.Extensions.dll_16920587480211233129.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.AccessibilityModule.dll_17995810071950901253.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.AccessibilityModule.dll_17995810071950901253.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.AccessibilityModule.dll_17995810071950901253.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.AccessibilityModule.dll_4657691702365468719.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.AccessibilityModule.dll_4657691702365468719.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.AccessibilityModule.dll_4657691702365468719.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.AIModule.dll_12687996061894017307.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.AIModule.dll_12687996061894017307.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.AIModule.dll_12687996061894017307.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.AIModule.dll_8943403220893577573.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.AIModule.dll_8943403220893577573.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.AIModule.dll_8943403220893577573.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.AndroidJNIModule.dll_11536836042023490649.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.AndroidJNIModule.dll_11536836042023490649.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.AndroidJNIModule.dll_11536836042023490649.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.AndroidJNIModule.dll_14278565063572629923.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.AndroidJNIModule.dll_14278565063572629923.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.AndroidJNIModule.dll_14278565063572629923.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.AnimationModule.dll_14637902184122520939.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.AnimationModule.dll_14637902184122520939.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.AnimationModule.dll_14637902184122520939.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.AnimationModule.dll_18225593833378804501.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.AnimationModule.dll_18225593833378804501.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.AnimationModule.dll_18225593833378804501.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.ARModule.dll_3859618809783488558.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.ARModule.dll_3859618809783488558.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.ARModule.dll_3859618809783488558.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.ARModule.dll_7604211650783928292.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.ARModule.dll_7604211650783928292.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.ARModule.dll_7604211650783928292.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.AssetBundleModule.dll_1093106156447094777.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.AssetBundleModule.dll_1093106156447094777.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.AssetBundleModule.dll_1093106156447094777.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.AssetBundleModule.dll_3904801087779598051.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.AssetBundleModule.dll_3904801087779598051.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.AssetBundleModule.dll_3904801087779598051.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.AudioModule.dll_1710748909566101191.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.AudioModule.dll_1710748909566101191.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.AudioModule.dll_1710748909566101191.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.AudioModule.dll_2036148159627600797.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.AudioModule.dll_2036148159627600797.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.AudioModule.dll_2036148159627600797.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.ClothModule.dll_9126027928502527403.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.ClothModule.dll_9126027928502527403.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.ClothModule.dll_9126027928502527403.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.ClothModule.dll_9451427178564027009.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.ClothModule.dll_9451427178564027009.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.ClothModule.dll_9451427178564027009.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.ClusterInputModule.dll_16598628236789036707.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.ClusterInputModule.dll_16598628236789036707.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.ClusterInputModule.dll_16598628236789036707.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.ClusterInputModule.dll_5673682880654407981.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.ClusterInputModule.dll_5673682880654407981.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.ClusterInputModule.dll_5673682880654407981.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.ClusterRendererModule.dll_4675926218971159374.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.ClusterRendererModule.dll_4675926218971159374.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.ClusterRendererModule.dll_4675926218971159374.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.ClusterRendererModule.dll_8758061043724949988.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.ClusterRendererModule.dll_8758061043724949988.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.ClusterRendererModule.dll_8758061043724949988.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.CoreModule.dll_1423549032385563228.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.CoreModule.dll_1423549032385563228.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.CoreModule.dll_1423549032385563228.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.CoreModule.dll_5837835478298741970.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.CoreModule.dll_5837835478298741970.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.CoreModule.dll_5837835478298741970.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.CrashReportingModule.dll_16655898397810356084.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.CrashReportingModule.dll_16655898397810356084.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.CrashReportingModule.dll_16655898397810356084.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.CrashReportingModule.dll_5078487586820396970.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.CrashReportingModule.dll_5078487586820396970.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.CrashReportingModule.dll_5078487586820396970.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.DirectorModule.dll_15029263653967576943.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.DirectorModule.dll_15029263653967576943.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.DirectorModule.dll_15029263653967576943.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.DirectorModule.dll_7337896297419853689.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.DirectorModule.dll_7337896297419853689.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.DirectorModule.dll_7337896297419853689.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.dll_5564878344014712953.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.dll_5564878344014712953.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.dll_5564878344014712953.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.dll_6656044498309022755.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.dll_6656044498309022755.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.dll_6656044498309022755.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.DSPGraphModule.dll_15412458202789187728.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.DSPGraphModule.dll_15412458202789187728.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.DSPGraphModule.dll_15412458202789187728.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.DSPGraphModule.dll_7721090846241464474.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.DSPGraphModule.dll_7721090846241464474.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.DSPGraphModule.dll_7721090846241464474.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.GameCenterModule.dll_14585010043678934346.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.GameCenterModule.dll_14585010043678934346.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.GameCenterModule.dll_14585010043678934346.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.GameCenterModule.dll_17326739065228073620.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.GameCenterModule.dll_17326739065228073620.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.GameCenterModule.dll_17326739065228073620.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.GIModule.dll_1466382262347045247.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.GIModule.dll_1466382262347045247.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.GIModule.dll_1466382262347045247.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.GIModule.dll_5210975103347484981.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.GIModule.dll_5210975103347484981.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.GIModule.dll_5210975103347484981.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.GridModule.dll_17380114696560304211.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.GridModule.dll_17380114696560304211.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.GridModule.dll_17380114696560304211.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.GridModule.dll_3347657068763931337.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.GridModule.dll_3347657068763931337.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.GridModule.dll_3347657068763931337.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.HotReloadModule.dll_5507062871990513901.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.HotReloadModule.dll_5507062871990513901.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.HotReloadModule.dll_5507062871990513901.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.HotReloadModule.dll_9094754521246797463.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.HotReloadModule.dll_9094754521246797463.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.HotReloadModule.dll_9094754521246797463.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.ImageConversionModule.dll_12454203184956232514.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.ImageConversionModule.dll_12454203184956232514.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.ImageConversionModule.dll_12454203184956232514.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.ImageConversionModule.dll_16536338009710023128.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.ImageConversionModule.dll_16536338009710023128.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.ImageConversionModule.dll_16536338009710023128.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.IMGUIModule.dll_5772889562238196392.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.IMGUIModule.dll_5772889562238196392.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.IMGUIModule.dll_5772889562238196392.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.IMGUIModule.dll_6098288812299695998.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.IMGUIModule.dll_6098288812299695998.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.IMGUIModule.dll_6098288812299695998.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.InputLegacyModule.dll_11560908883551849962.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.InputLegacyModule.dll_11560908883551849962.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.InputLegacyModule.dll_11560908883551849962.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.InputLegacyModule.dll_14372603814884353236.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.InputLegacyModule.dll_14372603814884353236.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.InputLegacyModule.dll_14372603814884353236.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.InputModule.dll_9093775634421459819.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.InputModule.dll_9093775634421459819.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.InputModule.dll_9093775634421459819.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.InputModule.dll_9419174884482959425.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.InputModule.dll_9419174884482959425.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.InputModule.dll_9419174884482959425.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.JSONSerializeModule.dll_11581845545249052857.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.JSONSerializeModule.dll_11581845545249052857.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.JSONSerializeModule.dll_11581845545249052857.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.JSONSerializeModule.dll_6473219841124933775.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.JSONSerializeModule.dll_6473219841124933775.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.JSONSerializeModule.dll_6473219841124933775.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.LocalizationModule.dll_10162868265313561638.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.LocalizationModule.dll_10162868265313561638.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.LocalizationModule.dll_10162868265313561638.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.LocalizationModule.dll_2641069547738638748.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.LocalizationModule.dll_2641069547738638748.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.LocalizationModule.dll_2641069547738638748.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.ParticleSystemModule.dll_11064415034162193208.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.ParticleSystemModule.dll_11064415034162193208.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.ParticleSystemModule.dll_11064415034162193208.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.ParticleSystemModule.dll_4195081771442600706.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.ParticleSystemModule.dll_4195081771442600706.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.ParticleSystemModule.dll_4195081771442600706.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.PerformanceReportingModule.dll_12002422695602043675.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.PerformanceReportingModule.dll_12002422695602043675.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.PerformanceReportingModule.dll_12002422695602043675.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.PerformanceReportingModule.dll_4508967384861651857.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.PerformanceReportingModule.dll_4508967384861651857.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.PerformanceReportingModule.dll_4508967384861651857.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.Physics2DModule.dll_1714242445224873216.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.Physics2DModule.dll_1714242445224873216.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.Physics2DModule.dll_1714242445224873216.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.Physics2DModule.dll_5301934094481156778.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.Physics2DModule.dll_5301934094481156778.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.Physics2DModule.dll_5301934094481156778.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.PhysicsModule.dll_5781999208496455800.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.PhysicsModule.dll_5781999208496455800.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.PhysicsModule.dll_5781999208496455800.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.PhysicsModule.dll_9187886722992903182.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.PhysicsModule.dll_9187886722992903182.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.PhysicsModule.dll_9187886722992903182.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.ProfilerModule.dll_10960542154349794950.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.ProfilerModule.dll_10960542154349794950.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.ProfilerModule.dll_10960542154349794950.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.ProfilerModule.dll_205165437187966588.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.ProfilerModule.dll_205165437187966588.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.ProfilerModule.dll_205165437187966588.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll_15297679711077268937.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll_15297679711077268937.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll_15297679711077268937.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll_4846845825195093875.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll_4846845825195093875.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll_4846845825195093875.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.ScreenCaptureModule.dll_13448496902902301979.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.ScreenCaptureModule.dll_13448496902902301979.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.ScreenCaptureModule.dll_13448496902902301979.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.ScreenCaptureModule.dll_8339871198778182897.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.ScreenCaptureModule.dll_8339871198778182897.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.ScreenCaptureModule.dll_8339871198778182897.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.SharedInternalsModule.dll_3523915685405707922.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.SharedInternalsModule.dll_3523915685405707922.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.SharedInternalsModule.dll_3523915685405707922.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.SharedInternalsModule.dll_7606050510159498536.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.SharedInternalsModule.dll_7606050510159498536.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.SharedInternalsModule.dll_7606050510159498536.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.SpriteMaskModule.dll_12940196243143678660.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.SpriteMaskModule.dll_12940196243143678660.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.SpriteMaskModule.dll_12940196243143678660.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.SpriteMaskModule.dll_15681925264692817934.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.SpriteMaskModule.dll_15681925264692817934.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.SpriteMaskModule.dll_15681925264692817934.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.SpriteShapeModule.dll_2921898947753840643.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.SpriteShapeModule.dll_2921898947753840643.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.SpriteShapeModule.dll_2921898947753840643.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.SpriteShapeModule.dll_5733593879086343917.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.SpriteShapeModule.dll_5733593879086343917.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.SpriteShapeModule.dll_5733593879086343917.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.StreamingModule.dll_12791135912236919379.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.StreamingModule.dll_12791135912236919379.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.StreamingModule.dll_12791135912236919379.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.StreamingModule.dll_9203444262980635817.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.StreamingModule.dll_9203444262980635817.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.StreamingModule.dll_9203444262980635817.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.SubstanceModule.dll_10245217052917934177.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.SubstanceModule.dll_10245217052917934177.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.SubstanceModule.dll_10245217052917934177.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.SubstanceModule.dll_6657525403661650615.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.SubstanceModule.dll_6657525403661650615.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.SubstanceModule.dll_6657525403661650615.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.SubsystemsModule.dll_2180364878684111575.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.SubsystemsModule.dll_2180364878684111575.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.SubsystemsModule.dll_2180364878684111575.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.SubsystemsModule.dll_4922093900233250849.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.SubsystemsModule.dll_4922093900233250849.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.SubsystemsModule.dll_4922093900233250849.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.TerrainModule.dll_11081223132311411964.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.TerrainModule.dll_11081223132311411964.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.TerrainModule.dll_11081223132311411964.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.TerrainModule.dll_7675335617814964582.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.TerrainModule.dll_7675335617814964582.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.TerrainModule.dll_7675335617814964582.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.TerrainPhysicsModule.dll_11098940605936278981.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.TerrainPhysicsModule.dll_11098940605936278981.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.TerrainPhysicsModule.dll_11098940605936278981.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.TerrainPhysicsModule.dll_4229607343216686479.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.TerrainPhysicsModule.dll_4229607343216686479.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.TerrainPhysicsModule.dll_4229607343216686479.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.TextCoreModule.dll_18343237940998291337.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.TextCoreModule.dll_18343237940998291337.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.TextCoreModule.dll_18343237940998291337.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.TextCoreModule.dll_7587861223836462975.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.TextCoreModule.dll_7587861223836462975.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.TextCoreModule.dll_7587861223836462975.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.TextRenderingModule.dll_11312090868215106790.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.TextRenderingModule.dll_11312090868215106790.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.TextRenderingModule.dll_11312090868215106790.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.TextRenderingModule.dll_16420716572339225872.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.TextRenderingModule.dll_16420716572339225872.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.TextRenderingModule.dll_16420716572339225872.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.TilemapModule.dll_4090624414872256005.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.TilemapModule.dll_4090624414872256005.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.TilemapModule.dll_4090624414872256005.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.TilemapModule.dll_684736900375808623.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.TilemapModule.dll_684736900375808623.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.TilemapModule.dll_684736900375808623.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.TLSModule.dll_10881298311564677964.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.TLSModule.dll_10881298311564677964.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.TLSModule.dll_10881298311564677964.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.TLSModule.dll_7413752118957224290.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.TLSModule.dll_7413752118957224290.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.TLSModule.dll_7413752118957224290.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UIElementsModule.dll_2486153802749607630.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UIElementsModule.dll_2486153802749607630.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UIElementsModule.dll_2486153802749607630.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UIElementsModule.dll_5227882824298746904.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UIElementsModule.dll_5227882824298746904.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UIElementsModule.dll_5227882824298746904.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UIElementsNativeModule.dll_15491177686491855215.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UIElementsNativeModule.dll_15491177686491855215.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UIElementsNativeModule.dll_15491177686491855215.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UIElementsNativeModule.dll_7242035596008350821.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UIElementsNativeModule.dll_7242035596008350821.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UIElementsNativeModule.dll_7242035596008350821.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UIModule.dll_12360251631684978375.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UIModule.dll_12360251631684978375.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UIModule.dll_12360251631684978375.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UIModule.dll_8615658790684538641.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UIModule.dll_8615658790684538641.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UIModule.dll_8615658790684538641.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UmbraModule.dll_10561637298703282746.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UmbraModule.dll_10561637298703282746.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UmbraModule.dll_10561637298703282746.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UmbraModule.dll_10887036548764782352.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UmbraModule.dll_10887036548764782352.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UmbraModule.dll_10887036548764782352.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UNETModule.dll_11990761675402788821.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UNETModule.dll_11990761675402788821.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UNETModule.dll_11990761675402788821.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UNETModule.dll_16405048121315967563.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UNETModule.dll_16405048121315967563.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UNETModule.dll_16405048121315967563.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UnityAnalyticsModule.dll_13343078982113948980.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UnityAnalyticsModule.dll_13343078982113948980.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UnityAnalyticsModule.dll_13343078982113948980.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UnityAnalyticsModule.dll_6473745719394356478.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UnityAnalyticsModule.dll_6473745719394356478.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UnityAnalyticsModule.dll_6473745719394356478.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UnityConnectModule.dll_13582864715081525010.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UnityConnectModule.dll_13582864715081525010.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UnityConnectModule.dll_13582864715081525010.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UnityConnectModule.dll_6061065997506602120.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UnityConnectModule.dll_6061065997506602120.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UnityConnectModule.dll_6061065997506602120.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UnityCurlModule.dll_18320898013110568792.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UnityCurlModule.dll_18320898013110568792.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UnityCurlModule.dll_18320898013110568792.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UnityCurlModule.dll_3461845588657300738.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UnityCurlModule.dll_3461845588657300738.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UnityCurlModule.dll_3461845588657300738.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UnityTestProtocolModule.dll_18371219601815848902.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UnityTestProtocolModule.dll_18371219601815848902.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UnityTestProtocolModule.dll_18371219601815848902.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UnityTestProtocolModule.dll_9805304940855327344.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UnityTestProtocolModule.dll_9805304940855327344.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UnityTestProtocolModule.dll_9805304940855327344.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestAssetBundleModule.dll_12530086833603706447.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestAssetBundleModule.dll_12530086833603706447.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestAssetBundleModule.dll_12530086833603706447.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestAssetBundleModule.dll_7348647083407761157.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestAssetBundleModule.dll_7348647083407761157.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestAssetBundleModule.dll_7348647083407761157.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestAudioModule.dll_13154844984709152297.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestAudioModule.dll_13154844984709152297.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestAudioModule.dll_13154844984709152297.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestAudioModule.dll_2201556221739992499.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestAudioModule.dll_2201556221739992499.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestAudioModule.dll_2201556221739992499.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestModule.dll_13723945231807638977.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestModule.dll_13723945231807638977.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestModule.dll_13723945231807638977.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestModule.dll_17806080056561429591.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestModule.dll_17806080056561429591.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestModule.dll_17806080056561429591.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestTextureModule.dll_16299175721407734558.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestTextureModule.dll_16299175721407734558.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestTextureModule.dll_16299175721407734558.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestTextureModule.dll_5240738091734573032.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestTextureModule.dll_5240738091734573032.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestTextureModule.dll_5240738091734573032.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestWWWModule.dll_1457930891795446244.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestWWWModule.dll_1457930891795446244.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestWWWModule.dll_1457930891795446244.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestWWWModule.dll_4485977855352094618.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestWWWModule.dll_4485977855352094618.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.UnityWebRequestWWWModule.dll_4485977855352094618.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.VehiclesModule.dll_15967630459320868628.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.VehiclesModule.dll_15967630459320868628.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.VehiclesModule.dll_15967630459320868628.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.VehiclesModule.dll_5212253742159040266.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.VehiclesModule.dll_5212253742159040266.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.VehiclesModule.dll_5212253742159040266.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.VFXModule.dll_16699779202453084879.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.VFXModule.dll_16699779202453084879.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.VFXModule.dll_16699779202453084879.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.VFXModule.dll_1720581321350986937.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.VFXModule.dll_1720581321350986937.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.VFXModule.dll_1720581321350986937.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.VideoModule.dll_4379558757825585772.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.VideoModule.dll_4379558757825585772.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.VideoModule.dll_4379558757825585772.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.VideoModule.dll_4704958007887085378.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.VideoModule.dll_4704958007887085378.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.VideoModule.dll_4704958007887085378.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.VirtualTexturingModule.dll_18124855956771469818.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.VirtualTexturingModule.dll_18124855956771469818.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.VirtualTexturingModule.dll_18124855956771469818.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.VirtualTexturingModule.dll_9875713866287965424.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.VirtualTexturingModule.dll_9875713866287965424.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.VirtualTexturingModule.dll_9875713866287965424.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.VRModule.dll_14583533602289728649.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.VRModule.dll_14583533602289728649.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.VRModule.dll_14583533602289728649.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.VRModule.dll_18328126443290168383.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.VRModule.dll_18328126443290168383.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.VRModule.dll_18328126443290168383.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.WindModule.dll_14362827590239111995.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.WindModule.dll_14362827590239111995.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.WindModule.dll_14362827590239111995.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.WindModule.dll_9948541144325933253.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.WindModule.dll_9948541144325933253.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.WindModule.dll_9948541144325933253.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.XRModule.dll_18240107974010735079.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.XRModule.dll_18240107974010735079.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.XRModule.dll_18240107974010735079.movedfrom
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\movedfrom\UnityEngine.XRModule.dll_3537956741301623197.movedfrom
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\artifacts\movedfrom\UnityEngine.XRModule.dll_3537956741301623197.movedfrom
-    projectPath: Library\Bee\artifacts\movedfrom\UnityEngine.XRModule.dll_3537956741301623197.movedfrom
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\Bee\profiler.json
     fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\profiler.json
     projectPath: Library\Bee\profiler.json
@@ -2222,18 +430,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Bee\TundraBuildState.state.map
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\TundraBuildState.state.map
-    projectPath: Library\Bee\TundraBuildState.state.map
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\EditorInstance.json
     fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -2276,12 +478,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\PackageManager\ProjectCache.md5
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\PackageManager\ProjectCache.md5
-    projectPath: Library\PackageManager\ProjectCache.md5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
     fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
@@ -2300,270 +496,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.Timeline.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VisualScripting.Core.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll
-    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Core.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VisualScripting.Core.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.VisualScripting.Core.pdb
-    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Core.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll
-    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VisualScripting.Flow.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.VisualScripting.Flow.pdb
-    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Flow.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VisualScripting.State.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.VisualScripting.State.dll
-    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.State.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VisualScripting.State.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.VisualScripting.State.pdb
-    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.State.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.UI.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\UnityEditor.UI.pdb
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.UI.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\UnityEngine.UI.pdb
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\VSSettingsProvider.dll
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\VSSettingsProvider.dll
-    projectPath: Library\ScriptAssemblies\VSSettingsProvider.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\VSSettingsProvider.pdb
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ScriptAssemblies\VSSettingsProvider.pdb
-    projectPath: Library\ScriptAssemblies\VSSettingsProvider.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\Search\transactions.db
     fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Search\transactions.db
     projectPath: Library\Search\transactions.db
@@ -2579,18 +511,6 @@ MonoBehaviour:
   - path: Library\SourceAssetDB
     fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\MainStageHierarchy\4d\4ded6911048c2ae63a589adf6d98e388.json
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\StateCache\MainStageHierarchy\4d\4ded6911048c2ae63a589adf6d98e388.json
-    projectPath: Library\StateCache\MainStageHierarchy\4d\4ded6911048c2ae63a589adf6d98e388.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\SceneView\44\4481427b6de84e4bda78cdca13195a8a.json
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\StateCache\SceneView\44\4481427b6de84e4bda78cdca13195a8a.json
-    projectPath: Library\StateCache\SceneView\44\4481427b6de84e4bda78cdca13195a8a.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -2618,99 +538,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe10.log
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Logs\shadercompiler-UnityShaderCompiler.exe10.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe10.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe11.log
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Logs\shadercompiler-UnityShaderCompiler.exe11.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe11.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe5.log
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Logs\shadercompiler-UnityShaderCompiler.exe5.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe6.log
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Logs\shadercompiler-UnityShaderCompiler.exe6.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe7.log
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Logs\shadercompiler-UnityShaderCompiler.exe7.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe8.log
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Logs\shadercompiler-UnityShaderCompiler.exe8.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe8.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe9.log
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Logs\shadercompiler-UnityShaderCompiler.exe9.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe9.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: obj\Debug\Assembly-CSharp-Editor.csproj.AssemblyReference.cache
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\obj\Debug\Assembly-CSharp-Editor.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
-    fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Temp\UnityLockfile
     fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\workerlic
     fullPath: C:\Users\tobias.pirkl\Documents\GitHub\SWP-Jahresprojekt-Unity\Temp\workerlic
     projectPath: Temp\workerlic
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1

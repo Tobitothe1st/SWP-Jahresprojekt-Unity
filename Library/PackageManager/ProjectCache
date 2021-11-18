@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637691823480420192
+      ticks: 637727384299865923
     m_Hash: 2153916769
   m_LockFileStatus:
     m_FilePath: C:/Users/le.vilgertshofer/Documents/GitHub/SWP-Jahresprojekt-Unity/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637691823480420192
+      ticks: 637727384299875913
     m_Hash: 3801854387
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -70,6 +70,8 @@ m_ResolvedPackages:
     - 1.9.0
     - 1.10.2
     - 1.11.2
+    - 1.12.5
+    - 1.13.5
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
@@ -84,6 +86,8 @@ m_ResolvedPackages:
     - 1.9.0
     - 1.10.2
     - 1.11.2
+    - 1.12.5
+    - 1.13.5
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
@@ -404,9 +408,11 @@ m_ResolvedPackages:
     - 1.1.26
     - 1.1.27
     - 1.1.29
+    - 1.1.30
     compatible:
     - 1.1.29
-    verified: 1.1.29
+    - 1.1.30
+    verified: 1.1.30
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -694,6 +700,7 @@ m_ResolvedPackages:
     - 1.6.0-pre.5
     - 1.6.1
     - 1.6.2
+    - 1.6.3
     compatible:
     - 1.5.6
     - 1.6.0-pre.1
@@ -702,6 +709,7 @@ m_ResolvedPackages:
     - 1.6.0-pre.5
     - 1.6.1
     - 1.6.2
+    - 1.6.3
     verified: 1.5.6
   dependencies:
   - name: com.unity.modules.director
@@ -852,11 +860,14 @@ m_ResolvedPackages:
     - 1.7.1
     - 1.7.2
     - 1.7.3
+    - 1.7.5
+    - 1.8.0-pre.1
     compatible:
     - 1.6.1
     - 1.7.1
     - 1.7.2
     - 1.7.3
+    - 1.7.5
     verified: 1.6.1
   dependencies:
   - name: com.unity.ugui
@@ -2776,6 +2787,11 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+    - 0.1.5-preview
+    - 0.1.6-preview
+    - 0.1.9-preview
+    - 1.0.0
+    - 1.0.5
     - 1.0.6
     compatible:
     - 1.0.6
@@ -2798,7 +2814,7 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 637429759280000000
   documentationUrl: 
   hasRepository: 1
   repository:

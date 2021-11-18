@@ -70,6 +70,7 @@
     <Compile Include="Assets\Scripts\PlayerHealth.cs" />
     <Compile Include="Assets\Scripts\MovementMouse.cs" />
     <Compile Include="Assets\SaveGame\Scripts\SaveSystem\SaveSystemData.cs" />
+    <Compile Include="Assets\Extern Assets\IgniteCoders\Simple Water Shader\Resources\WaterReflection.cs" />
     <Compile Include="Assets\Scripts\ThirdPerson.cs" />
   </ItemGroup>
   <ItemGroup>

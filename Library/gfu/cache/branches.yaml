@@ -13,16 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-11-18T07:36:12.262+01:00
-  initializedAtString: 2021-11-18T07:36:10.721+01:00
+  lastUpdatedAtString: 2021-11-27T23:27:06.955+01:00
+  initializedAtString: 2021-11-27T23:26:41.004+01:00
   localBranches:
   - name: main
     tracking: origin/main
   - name: Tobi
     tracking: origin/Tobi
   remoteBranches:
-  - name: origin/HEAD
-    tracking: '[None]'
   - name: origin/Leon
     tracking: '[None]'
   - name: origin/main
@@ -59,18 +57,12 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
-      - HEAD
       - Leon
       - main
       - Tobi
       - Tobi-Test
     subKeyValues:
     - Values:
-      - name: HEAD
-        remote:
-          name: origin
-          url: https://github.com/Tobitothe1st/SWP-Jahresprojekt-Unity.git
-        trackingBranch: 
       - name: Leon
         remote:
           name: origin

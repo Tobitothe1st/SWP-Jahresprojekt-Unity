@@ -241,8 +241,8 @@
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"Csc Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)","enqueuedNodeIndex":193,"enqueueingNodeAnnotation":"CopyTool Library/ScriptAssemblies/Assembly-CSharp-Editor.dll","enqueueingNodeIndex":240}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp","enqueuedNodeIndex":192,"enqueueingNodeAnnotation":"Csc Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)","enqueueingNodeIndex":193}
 {"msg":"nodeRetryBuild","annotation":"Csc Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.dll (+2 others)","index":86}
-{"msg":"nodeOutputsMissing","annotation":"CopyTool Library/ScriptAssemblies/UnityEngine.TestRunner.pdb","index":197,"files":["Library\\ScriptAssemblies\\UnityEngine.TestRunner.pdb"],"directories":[]}
 {"msg":"nodeOutputsMissing","annotation":"CopyTool Library/ScriptAssemblies/UnityEngine.TestRunner.dll","index":196,"files":["Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll"],"directories":[]}
+{"msg":"nodeOutputsMissing","annotation":"CopyTool Library/ScriptAssemblies/UnityEngine.TestRunner.pdb","index":197,"files":["Library\\ScriptAssemblies\\UnityEngine.TestRunner.pdb"],"directories":[]}
 {"msg":"nodeOutputsMissing","annotation":"CopyTool Library/ScriptAssemblies/UnityEditor.TestRunner.pdb","index":201,"files":["Library\\ScriptAssemblies\\UnityEditor.TestRunner.pdb"],"directories":[]}
 {"msg":"nodeOutputsMissing","annotation":"CopyTool Library/ScriptAssemblies/UnityEditor.TestRunner.dll","index":200,"files":["Library\\ScriptAssemblies\\UnityEditor.TestRunner.dll"],"directories":[]}
 {"msg":"noderesult","processed_node_count":137,"amount_of_nodes_ever_queued":241,"annotation":"CopyTool Library/ScriptAssemblies/UnityEngine.TestRunner.pdb","index":197,"exitcode":0,"outputfile":"Library\\ScriptAssemblies\\UnityEngine.TestRunner.pdb"}

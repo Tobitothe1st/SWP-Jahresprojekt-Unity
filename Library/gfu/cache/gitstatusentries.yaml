@@ -13,30 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-11-30T20:33:57.934+01:00
-  initializedAtString: 2021-11-30T20:30:48.380+01:00
+  lastUpdatedAtString: 2021-12-23T23:55:49.339+01:00
+  initializedAtString: 2021-12-23T23:55:18.672+01:00
   entries:
-  - path: Assembly-CSharp.csproj
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Landscape\TerrainData_8a4de444-f350-43e0-bb2f-a31cba52be93.asset
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Assets\Landscape\TerrainData_8a4de444-f350-43e0-bb2f-a31cba52be93.asset
-    projectPath: Assets\Landscape\TerrainData_8a4de444-f350-43e0-bb2f-a31cba52be93.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Landscape\TerrainData_c02aa859-f076-493d-acf4-6cb4ec9bcb6f.asset
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Assets\Landscape\TerrainData_c02aa859-f076-493d-acf4-6cb4ec9bcb6f.asset
-    projectPath: Assets\Landscape\TerrainData_c02aa859-f076-493d-acf4-6cb4ec9bcb6f.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Landscape\TerrainData_c676ff24-621a-4aab-8a85-d33d9a52852f.asset
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Assets\Landscape\TerrainData_c676ff24-621a-4aab-8a85-d33d9a52852f.asset
-    projectPath: Assets\Landscape\TerrainData_c676ff24-621a-4aab-8a85-d33d9a52852f.asset
+  - path: .vs\SWP Jahresprojekt Unity\v16\.suo
+    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\.vs\SWP Jahresprojekt
+      Unity\v16\.suo
+    projectPath: .vs\SWP Jahresprojekt Unity\v16\.suo
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -47,203 +30,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scenes\Test scene\NavMesh.asset
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Assets\Scenes\Test
-      scene\NavMesh.asset
-    projectPath: Assets\Scenes\Test scene\NavMesh.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scenes\Test scene\NavMesh.asset.meta
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Assets\Scenes\Test
-      scene\NavMesh.asset.meta
-    projectPath: Assets\Scenes\Test scene\NavMesh.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\ArtifactDB
     fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\09\09c990b77252050127ef1c09be931b9c
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\09\09c990b77252050127ef1c09be931b9c
-    projectPath: Library\Artifacts\09\09c990b77252050127ef1c09be931b9c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\0d\0d364d2be4ca298088ea680df44636cc
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\0d\0d364d2be4ca298088ea680df44636cc
-    projectPath: Library\Artifacts\0d\0d364d2be4ca298088ea680df44636cc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\16\1640ce7ecb06e4350964ef7a20b3943b
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\16\1640ce7ecb06e4350964ef7a20b3943b
-    projectPath: Library\Artifacts\16\1640ce7ecb06e4350964ef7a20b3943b
+  - path: Library\Artifacts\4c\4c268f764981933fbacd576efef4c6be
+    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\4c\4c268f764981933fbacd576efef4c6be
+    projectPath: Library\Artifacts\4c\4c268f764981933fbacd576efef4c6be
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\18\18a5f8754e4442cc2b3a14fbc27aae00
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\18\18a5f8754e4442cc2b3a14fbc27aae00
-    projectPath: Library\Artifacts\18\18a5f8754e4442cc2b3a14fbc27aae00
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\19\19b030da368da3f3d00c5f39d3a387a7
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\19\19b030da368da3f3d00c5f39d3a387a7
-    projectPath: Library\Artifacts\19\19b030da368da3f3d00c5f39d3a387a7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\22\224a08f93b37d9c2cfdf79f8644a0dd7
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\22\224a08f93b37d9c2cfdf79f8644a0dd7
-    projectPath: Library\Artifacts\22\224a08f93b37d9c2cfdf79f8644a0dd7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\22\22e5bf9d2c887d19850acdac092cc9ed
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\22\22e5bf9d2c887d19850acdac092cc9ed
-    projectPath: Library\Artifacts\22\22e5bf9d2c887d19850acdac092cc9ed
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\22\22ef2b54aca260a6de6ebbf769720d76
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\22\22ef2b54aca260a6de6ebbf769720d76
-    projectPath: Library\Artifacts\22\22ef2b54aca260a6de6ebbf769720d76
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\2c\2c66bb3f747092ca8979387432a267bd
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\2c\2c66bb3f747092ca8979387432a267bd
-    projectPath: Library\Artifacts\2c\2c66bb3f747092ca8979387432a267bd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\51\515761740a89c0f43132157967fcaa9a
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\51\515761740a89c0f43132157967fcaa9a
-    projectPath: Library\Artifacts\51\515761740a89c0f43132157967fcaa9a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\57\57fdd9c6ef8d964e97b1dd1b737c156c
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\57\57fdd9c6ef8d964e97b1dd1b737c156c
-    projectPath: Library\Artifacts\57\57fdd9c6ef8d964e97b1dd1b737c156c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\67\6703be5a32ea271bc403dd2baffc9b57
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\67\6703be5a32ea271bc403dd2baffc9b57
-    projectPath: Library\Artifacts\67\6703be5a32ea271bc403dd2baffc9b57
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\6c\6c8c12c761b7d505c9a4a2554d0ccb9e
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\6c\6c8c12c761b7d505c9a4a2554d0ccb9e
-    projectPath: Library\Artifacts\6c\6c8c12c761b7d505c9a4a2554d0ccb9e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8b\8bf4d08af51078c5231fc140a7a0592a
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\8b\8bf4d08af51078c5231fc140a7a0592a
-    projectPath: Library\Artifacts\8b\8bf4d08af51078c5231fc140a7a0592a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\9e\9e892f78d1e71f380055d11e2e8b5123
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\9e\9e892f78d1e71f380055d11e2e8b5123
-    projectPath: Library\Artifacts\9e\9e892f78d1e71f380055d11e2e8b5123
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\9f\9f5e88287097f456edd861dff8c0c971
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\9f\9f5e88287097f456edd861dff8c0c971
-    projectPath: Library\Artifacts\9f\9f5e88287097f456edd861dff8c0c971
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a2\a2325482345e1b9cd02b012b0f80b93c
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\a2\a2325482345e1b9cd02b012b0f80b93c
-    projectPath: Library\Artifacts\a2\a2325482345e1b9cd02b012b0f80b93c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a7\a7e3d137f31e13aa94d5585187b0d619
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\a7\a7e3d137f31e13aa94d5585187b0d619
-    projectPath: Library\Artifacts\a7\a7e3d137f31e13aa94d5585187b0d619
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\Artifacts\a8\a82ceff1fc4c0bfafd1afb13363b1102
     fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\a8\a82ceff1fc4c0bfafd1afb13363b1102
     projectPath: Library\Artifacts\a8\a82ceff1fc4c0bfafd1afb13363b1102
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ab\ab14ceaec0f50bde4713253c62fddfb7
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\ab\ab14ceaec0f50bde4713253c62fddfb7
-    projectPath: Library\Artifacts\ab\ab14ceaec0f50bde4713253c62fddfb7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ad\ade1ef80e95013077b33d5e07f6f59ee
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\ad\ade1ef80e95013077b33d5e07f6f59ee
-    projectPath: Library\Artifacts\ad\ade1ef80e95013077b33d5e07f6f59ee
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\af\af4c818a6141c97e312b7d87dca0e4d1
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\af\af4c818a6141c97e312b7d87dca0e4d1
-    projectPath: Library\Artifacts\af\af4c818a6141c97e312b7d87dca0e4d1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\bc\bc5442d2a4d5a6b8092704786429008d
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\bc\bc5442d2a4d5a6b8092704786429008d
-    projectPath: Library\Artifacts\bc\bc5442d2a4d5a6b8092704786429008d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c3\c39858a7d30f3eac3f1c03ccab0cedb1
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\c3\c39858a7d30f3eac3f1c03ccab0cedb1
-    projectPath: Library\Artifacts\c3\c39858a7d30f3eac3f1c03ccab0cedb1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c3\c3c5cc9edfd79a51f0942905d8666301
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\c3\c3c5cc9edfd79a51f0942905d8666301
-    projectPath: Library\Artifacts\c3\c3c5cc9edfd79a51f0942905d8666301
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d1\d1949dc96dca972328b7dd0b764d13cc
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\d1\d1949dc96dca972328b7dd0b764d13cc
-    projectPath: Library\Artifacts\d1\d1949dc96dca972328b7dd0b764d13cc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d4\d4aacd831cc972c49d4d28c61688d548
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\d4\d4aacd831cc972c49d4d28c61688d548
-    projectPath: Library\Artifacts\d4\d4aacd831cc972c49d4d28c61688d548
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d8\d8e7e4bd6e90a0082899b8000944bc4a
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\d8\d8e7e4bd6e90a0082899b8000944bc4a
-    projectPath: Library\Artifacts\d8\d8e7e4bd6e90a0082899b8000944bc4a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e4\e471d2e3d583e5450ddd2cd67fe9110d
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\e4\e471d2e3d583e5450ddd2cd67fe9110d
-    projectPath: Library\Artifacts\e4\e471d2e3d583e5450ddd2cd67fe9110d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\fd\fdf5532eb52c2c0c35064eba57412e81
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Artifacts\fd\fdf5532eb52c2c0c35064eba57412e81
-    projectPath: Library\Artifacts\fd\fdf5532eb52c2c0c35064eba57412e81
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -262,24 +63,6 @@ MonoBehaviour:
   - path: Library\Bee\tundra.digestcache
     fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Bee\tundra.digestcache
     projectPath: Library\Bee\tundra.digestcache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\tundra.log.json
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Bee\tundra.log.json
-    projectPath: Library\Bee\tundra.log.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\TundraBuildState.state.map
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\Bee\TundraBuildState.state.map
-    projectPath: Library\Bee\TundraBuildState.state.map
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\CurrentMaximizeLayout.dwlt
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\CurrentMaximizeLayout.dwlt
-    projectPath: Library\CurrentMaximizeLayout.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -319,12 +102,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
     fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
@@ -337,105 +114,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\0\07011041dd28b086e7a8c40e2b9998d4.bin
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\ShaderCache\0\07011041dd28b086e7a8c40e2b9998d4.bin
-    projectPath: Library\ShaderCache\0\07011041dd28b086e7a8c40e2b9998d4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\0\0fb2094c48dabc7d9c545bbcad76eff2.bin
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\ShaderCache\0\0fb2094c48dabc7d9c545bbcad76eff2.bin
-    projectPath: Library\ShaderCache\0\0fb2094c48dabc7d9c545bbcad76eff2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\5\55672d62c33a0d70eeffb1848b4fe9d3.bin
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\ShaderCache\5\55672d62c33a0d70eeffb1848b4fe9d3.bin
-    projectPath: Library\ShaderCache\5\55672d62c33a0d70eeffb1848b4fe9d3.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\5\56b5eef674654953d727344e53ef7899.bin
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\ShaderCache\5\56b5eef674654953d727344e53ef7899.bin
-    projectPath: Library\ShaderCache\5\56b5eef674654953d727344e53ef7899.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\5\5e1cc74d64e6bf9d96a4e28def0d095a.bin
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\ShaderCache\5\5e1cc74d64e6bf9d96a4e28def0d095a.bin
-    projectPath: Library\ShaderCache\5\5e1cc74d64e6bf9d96a4e28def0d095a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\8\80c21cca703937956222ffaa58684813.bin
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\ShaderCache\8\80c21cca703937956222ffaa58684813.bin
-    projectPath: Library\ShaderCache\8\80c21cca703937956222ffaa58684813.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\8\86ef575108914243d2fd96143a195883.bin
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\ShaderCache\8\86ef575108914243d2fd96143a195883.bin
-    projectPath: Library\ShaderCache\8\86ef575108914243d2fd96143a195883.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\a\a4c189dae17a8edc5ee947a4b33b8f15.bin
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\ShaderCache\a\a4c189dae17a8edc5ee947a4b33b8f15.bin
-    projectPath: Library\ShaderCache\a\a4c189dae17a8edc5ee947a4b33b8f15.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\b\b464be158738ca4ef7aae108d46feb55.bin
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\ShaderCache\b\b464be158738ca4ef7aae108d46feb55.bin
-    projectPath: Library\ShaderCache\b\b464be158738ca4ef7aae108d46feb55.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\b\b76ee1be94709c776af27ad1f1c663af.bin
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\ShaderCache\b\b76ee1be94709c776af27ad1f1c663af.bin
-    projectPath: Library\ShaderCache\b\b76ee1be94709c776af27ad1f1c663af.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\d\d8db334d29a55a294580982722eca42b.bin
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\ShaderCache\d\d8db334d29a55a294580982722eca42b.bin
-    projectPath: Library\ShaderCache\d\d8db334d29a55a294580982722eca42b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\d\dfe1887f453c7eae446e81f386df1658.bin
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\ShaderCache\d\dfe1887f453c7eae446e81f386df1658.bin
-    projectPath: Library\ShaderCache\d\dfe1887f453c7eae446e81f386df1658.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\ShaderCache\EditorEncounteredVariants
     fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\ShaderCache\EditorEncounteredVariants
     projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\f\fb8d8616da67078f11e4d94f92fbe4f0.bin
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\ShaderCache\f\fb8d8616da67078f11e4d94f92fbe4f0.bin
-    projectPath: Library\ShaderCache\f\fb8d8616da67078f11e4d94f92fbe4f0.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\SourceAssetDB
     fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\MainStageHierarchy\4d\4ded6911048c2ae63a589adf6d98e388.json
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\StateCache\MainStageHierarchy\4d\4ded6911048c2ae63a589adf6d98e388.json
-    projectPath: Library\StateCache\MainStageHierarchy\4d\4ded6911048c2ae63a589adf6d98e388.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\SceneView\44\4481427b6de84e4bda78cdca13195a8a.json
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Library\StateCache\SceneView\44\4481427b6de84e4bda78cdca13195a8a.json
-    projectPath: Library\StateCache\SceneView\44\4481427b6de84e4bda78cdca13195a8a.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -444,49 +131,43 @@ MonoBehaviour:
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Logs\AssetImportWorker0-prev.log
     fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\AssetImportWorker1.log
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Logs\AssetImportWorker1.log
-    projectPath: Logs\AssetImportWorker1.log
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\AssetImportWorker1-prev.log
+    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Logs\AssetImportWorker1-prev.log
+    projectPath: Logs\AssetImportWorker1-prev.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\AssetImportWorker2.log
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Logs\AssetImportWorker2.log
-    projectPath: Logs\AssetImportWorker2.log
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\AssetImportWorker2-prev.log
+    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Logs\AssetImportWorker2-prev.log
+    projectPath: Logs\AssetImportWorker2-prev.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\AssetImportWorker3-prev.log
+    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Logs\AssetImportWorker3-prev.log
+    projectPath: Logs\AssetImportWorker3-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs\shadercompiler-AssetImportWorker0.log
     fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe10.log
-    fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Logs\shadercompiler-UnityShaderCompiler.exe10.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe10.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Temp\__Backupscenes\0.backup
     fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityLockfile
     fullPath: C:\Users\Tobias\Desktop\SWP Jahresprojekt Unity\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile

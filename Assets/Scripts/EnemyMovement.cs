@@ -10,22 +10,31 @@ public class EnemyMovement : MonoBehaviour
     public Transform player;
     public float move = 5f;
     public float detectionRange = 20f;
+    public float stopRange = 2f;
+    public float despawnRange = 50f;
 
-    //NavMeshAgent agent;
+
             
     private void Start()
     {
-        //agent = GetComponent<NavMeshAgent>();
     }
     void Update()
     {
+        //detects Range 
         Vector3 clipToFloor = new Vector3(player.position.x, player.position.y-1.66f, player.position.z);
         float range = Vector3.Distance(EnemyBody.position, clipToFloor);
         float speed = move * Time.deltaTime;
-        //agent.SetDestination(player.position);
-        if (range <= detectionRange)
+
+        //moves if player is in Range
+        if (range < detectionRange && range > stopRange)
         {
             EnemyBody.position = Vector3.MoveTowards(EnemyBody.position, clipToFloor, speed);
+            Debug.Log(range.ToString());
+            //TODO: Enemy Gravity
+        }
+        if(range > despawnRange)
+        {
+            //TODO: Despawn Enemy
         }
     }
 }

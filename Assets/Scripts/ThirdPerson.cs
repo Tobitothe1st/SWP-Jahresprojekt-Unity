@@ -7,6 +7,8 @@ public class ThirdPerson : MonoBehaviour
     public Camera cam1;
     public Camera cam2;
 
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -22,5 +24,6 @@ public class ThirdPerson : MonoBehaviour
             cam1.enabled = !cam1.enabled;
             cam2.enabled = !cam2.enabled;
         }
+
     }
 }

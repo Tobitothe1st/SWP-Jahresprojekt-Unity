@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class MovementKeyboard : MonoBehaviour
 {
+    //ToDo: Fix Clipping
+
     public CharacterController controller;
 
     public float speed = 12f;
@@ -20,6 +22,7 @@ public class MovementKeyboard : MonoBehaviour
         float x = Input.GetAxis("Horizontal");
         float z = Input.GetAxis("Vertical");
 
+        //Running
 
         if (Input.GetKey(KeyCode.LeftShift))
         {
@@ -32,12 +35,15 @@ public class MovementKeyboard : MonoBehaviour
 
         yspeed += Physics.gravity.y * Time.deltaTime;
 
+        //Jumping
+
         if(Input.GetButtonDown("Jump"))
         {
             yspeed = y;
         }
         
 
+        //Moveing position
 
         move = transform.right * x + transform.forward * z;
         move.y = yspeed;

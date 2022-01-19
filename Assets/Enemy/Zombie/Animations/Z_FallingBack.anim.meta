@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Enemy/Zombie/Materials/Zombie.mat.meta
+guid: 7518c55e68ecdbd45adc9a4dbecefa3d
+=======
 guid: 812aae90a9297f249908057eed4c0879
+>>>>>>> Tobi:Assets/Enemy/Zombie/Animations/Z_FallingBack.anim.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 7400000

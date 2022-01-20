@@ -11,18 +11,20 @@ public class Menu : MonoBehaviour
 
     public void continueGame()
     {
-        cam1.enabled = !cam1.enabled;
-        cam2.enabled = !cam2.enabled;
-        menu.enabled = !menu.enabled;
+        //cam1.enabled = !cam1.enabled;
+        //cam2.enabled = !cam2.enabled;
+        //menu.enabled = !menu.enabled;
+        Debug.Log("Continue");
     }
 
     public void settings()
     {
-
+        Debug.Log("Settings");
     }
 
     public void quit()
     {
+        Debug.Log("Quit");
         Application.Quit();
     }
 }

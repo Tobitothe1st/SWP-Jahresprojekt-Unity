@@ -13,102 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-01-20T17:40:58.465+01:00
-  initializedAtString: 2022-01-20T17:36:24.949+01:00
+  lastUpdatedAtString: 2022-01-20T19:20:23.937+01:00
+  initializedAtString: 2022-01-20T19:18:11.878+01:00
   entries:
-  - path: .vs\SWP-Jahresprojekt-Unity\v16\.suo
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\.vs\SWP-Jahresprojekt-Unity\v16\.suo
-    projectPath: .vs\SWP-Jahresprojekt-Unity\v16\.suo
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: .vs\SWP-Jahresprojekt-Unity\v16\Server\sqlite3\storage.ide
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\.vs\SWP-Jahresprojekt-Unity\v16\Server\sqlite3\storage.ide
-    projectPath: .vs\SWP-Jahresprojekt-Unity\v16\Server\sqlite3\storage.ide
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: .vs\SWP-Jahresprojekt-Unity\v16\Server\sqlite3\storage.ide-shm
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\.vs\SWP-Jahresprojekt-Unity\v16\Server\sqlite3\storage.ide-shm
-    projectPath: .vs\SWP-Jahresprojekt-Unity\v16\Server\sqlite3\storage.ide-shm
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: .vs\SWP-Jahresprojekt-Unity\v16\Server\sqlite3\storage.ide-wal
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\.vs\SWP-Jahresprojekt-Unity\v16\Server\sqlite3\storage.ide-wal
-    projectPath: .vs\SWP-Jahresprojekt-Unity\v16\Server\sqlite3\storage.ide-wal
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assembly-CSharp.csproj
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Menu.cs
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Assets\Scripts\Menu.cs
-    projectPath: Assets\Scripts\Menu.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ArtifactDB
     fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\10\10cc250e9778dbda6a63a8c48f9838be
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\10\10cc250e9778dbda6a63a8c48f9838be
-    projectPath: Library\Artifacts\10\10cc250e9778dbda6a63a8c48f9838be
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\5a\5aeb80c8ff9aa49bf860d4aea0987273
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\5a\5aeb80c8ff9aa49bf860d4aea0987273
-    projectPath: Library\Artifacts\5a\5aeb80c8ff9aa49bf860d4aea0987273
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\70\702f9a3738bd5350955c3054056c4630
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\70\702f9a3738bd5350955c3054056c4630
-    projectPath: Library\Artifacts\70\702f9a3738bd5350955c3054056c4630
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\97\97696b0823275e7ad8f235fd98afb53a
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\97\97696b0823275e7ad8f235fd98afb53a
-    projectPath: Library\Artifacts\97\97696b0823275e7ad8f235fd98afb53a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a5\a51d549af4875a125111833530e22a7f
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\a5\a51d549af4875a125111833530e22a7f
-    projectPath: Library\Artifacts\a5\a51d549af4875a125111833530e22a7f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\bd\bd64abaf5eb2a2f2034739aafd856f6a
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\bd\bd64abaf5eb2a2f2034739aafd856f6a
-    projectPath: Library\Artifacts\bd\bd64abaf5eb2a2f2034739aafd856f6a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c1\c140a88f30ccb7adde0735098e670e47
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\c1\c140a88f30ccb7adde0735098e670e47
-    projectPath: Library\Artifacts\c1\c140a88f30ccb7adde0735098e670e47
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e3\e361014250c6d6a33e70ddf5f8cc5d69
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\e3\e361014250c6d6a33e70ddf5f8cc5d69
-    projectPath: Library\Artifacts\e3\e361014250c6d6a33e70ddf5f8cc5d69
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f6\f664bba2957c0b9be513248da9e80af5
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\f6\f664bba2957c0b9be513248da9e80af5
-    projectPath: Library\Artifacts\f6\f664bba2957c0b9be513248da9e80af5
+  - path: Library\Artifacts\fd\fd92df8d509cc46df6a4e1dae1a920fe
+    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Artifacts\fd\fd92df8d509cc46df6a4e1dae1a920fe
+    projectPath: Library\Artifacts\fd\fd92df8d509cc46df6a4e1dae1a920fe
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -154,24 +70,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Bee\TundraBuildState.state.map
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\Bee\TundraBuildState.state.map
-    projectPath: Library\Bee\TundraBuildState.state.map
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\EditorInstance.json
     fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
@@ -187,12 +91,6 @@ MonoBehaviour:
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\LastSceneManagerSetup.txt
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\LastSceneManagerSetup.txt
-    projectPath: Library\LastSceneManagerSetup.txt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -220,21 +118,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\SourceAssetDB
     fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\MainStageHierarchy\4d\4ded6911048c2ae63a589adf6d98e388.json
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\StateCache\MainStageHierarchy\4d\4ded6911048c2ae63a589adf6d98e388.json
-    projectPath: Library\StateCache\MainStageHierarchy\4d\4ded6911048c2ae63a589adf6d98e388.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -256,41 +142,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SWP Dateien\~$e Cases.docx
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\SWP Dateien\~$e
-      Cases.docx
-    projectPath: SWP Dateien\~$e Cases.docx
+  - path: SWP Dateien\README.txt
+    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\SWP Dateien\README.txt
+    projectPath: SWP Dateien\README.txt
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: SWP Dateien\~WRL2785.tmp
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\SWP Dateien\~WRL2785.tmp
-    projectPath: SWP Dateien\~WRL2785.tmp
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SWP Dateien\Use Cases.docx
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\SWP Dateien\Use
-      Cases.docx
-    projectPath: SWP Dateien\Use Cases.docx
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Temp\UnityLockfile
     fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: UserSettings\EditorUserSettings.asset
-    fullPath: C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\UserSettings\EditorUserSettings.asset
-    projectPath: UserSettings\EditorUserSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

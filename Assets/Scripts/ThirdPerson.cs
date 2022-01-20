@@ -19,6 +19,7 @@ public class ThirdPerson : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //switch camera
         if (Input.GetKeyDown("v"))
         {
             cam1.enabled = !cam1.enabled;

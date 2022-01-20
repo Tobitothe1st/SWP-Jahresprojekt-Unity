@@ -9,6 +9,7 @@ public class OpenMenu : MonoBehaviour
     public Camera cam1;
     public Camera cam2;
     public Canvas menu;
+    public GameObject Player;
     // Start is called before the first frame update
     void Start()
     {
@@ -25,6 +26,10 @@ public class OpenMenu : MonoBehaviour
             cam1.enabled = !cam1.enabled;
             cam2.enabled = !cam2.enabled;
             menu.enabled = !menu.enabled;
+
+            //ToDo: Find a way to make Menu work/interactable
+            //Player.GetComponent<MovementMouse>().enabled = false;
+            
         }
     }
 }

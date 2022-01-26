@@ -12,6 +12,7 @@ public class EnemyMovement : MonoBehaviour
     public float detectionRange = 20f;
     public float stopRange = 2f;
     public float despawnRange = 50f;
+    public float ySubtraction = 1.9f;
 
 
             
@@ -21,7 +22,7 @@ public class EnemyMovement : MonoBehaviour
     void Update()
     {
         //detects Range 
-        Vector3 clipToFloor = new Vector3(player.position.x, player.position.y-1.66f, player.position.z);
+        Vector3 clipToFloor = new Vector3(player.position.x, player.position.y-ySubtraction, player.position.z);
         float range = Vector3.Distance(EnemyBody.position, clipToFloor);
         float speed = move * Time.deltaTime;
 

@@ -24,18 +24,25 @@ public class EnemyMovement : MonoBehaviour
         Ray ray = new Ray(EnemyBody.transform.position, -transform.up);
         RaycastHit hit = new RaycastHit();
         Physics.Raycast(ray, out hit);
-        Debug.DrawRay(EnemyBody.transform.position, -transform.up * 10);
-        Debug.Log(hit.distance);
-        Vector3 clipToFloor = new Vector3(player.position.x, player.position.y-hit.distance, player.position.z);
+        Debug.DrawRay(EnemyBody.transform.position, -transform.up * 10f, Color.red);
+        //Debug.Log(hit.distance);
+        Vector3 target = new Vector3(player.position.x, 0f, player.position.z);
 
-        float range = Vector3.Distance(EnemyBody.position, clipToFloor);
+        float range = Vector3.Distance(EnemyBody.position, target);
         float speed = move * Time.deltaTime;
 
         //moves if player is in Range
         if (range < detectionRange && range > stopRange)
         {
-            EnemyBody.position = Vector3.MoveTowards(EnemyBody.position, clipToFloor, speed);
-            Debug.Log(range.ToString());
+            EnemyBody.position = Vector3.MoveTowards(EnemyBody.position, target, speed);
+            EnemyBody.LookAt(player);
+            //EnemyBody.LookAt(player);
+            //if(EnemyBody.rotation.x != 0 || EnemyBody.rotation.z != 0)
+            //{
+            //    EnemyBody.Rotate(0, 0, 0);
+            //}
+            //Debug.Log(EnemyBody.rotation);
+            //Debug.Log(range.ToString());
             //TODO: Enemy Gravity
         }
         if(range > despawnRange)

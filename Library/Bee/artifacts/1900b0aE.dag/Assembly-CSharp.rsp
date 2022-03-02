@@ -325,6 +325,7 @@
 "Assets/Extern Assets/SaveGame/Scripts/SaveSystemSetup.cs"
 "Assets/Extern Assets/SaveGame/Scripts/TestSaveGame.cs"
 "Assets/Scripts/EnemyMovement.cs"
+"Assets/Scripts/EnemySpawn.cs"
 "Assets/Scripts/Menu.cs"
 "Assets/Scripts/MovementKeyboard.cs"
 "Assets/Scripts/MovementMouse.cs"

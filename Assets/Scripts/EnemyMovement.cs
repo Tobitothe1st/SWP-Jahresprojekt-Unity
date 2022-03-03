@@ -21,10 +21,6 @@ public class EnemyMovement : MonoBehaviour
     void Update()
     {
         //detects Range 
-        Ray ray = new Ray(EnemyBody.transform.position, -transform.up);
-        RaycastHit hit = new RaycastHit();
-        Physics.Raycast(ray, out hit);
-        Debug.DrawRay(EnemyBody.transform.position, -transform.up * 10f, Color.red);
         Vector3 target = new Vector3(player.position.x, 0f, player.position.z);
 
         float range = Vector3.Distance(EnemyBody.position, target);

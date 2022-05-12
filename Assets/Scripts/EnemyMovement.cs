@@ -7,7 +7,8 @@ public class EnemyMovement : MonoBehaviour
 {
 
     public Transform EnemyBody;
-    public Transform player;
+    public GameObject player;
+    public GameObject playerBody;
 
     public float move = 5f;
     public float detectionRange = 20f;
@@ -21,7 +22,9 @@ public class EnemyMovement : MonoBehaviour
     void Update()
     {
         //detects Range 
-        Vector3 target = new Vector3(player.position.x, 0f, player.position.z);
+
+        //find Solution for Enemy not following Player
+        Vector3 target = new Vector3(playerBody.Transfrom.position.x, 0f, player.position.z);
 
         float range = Vector3.Distance(EnemyBody.position, target);
         float speed = move * Time.deltaTime;

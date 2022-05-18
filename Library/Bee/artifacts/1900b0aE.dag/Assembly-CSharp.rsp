@@ -330,6 +330,7 @@
 "Assets/Scripts/MovementKeyboard.cs"
 "Assets/Scripts/MovementMouse.cs"
 "Assets/Scripts/OpenMenu.cs"
+"Assets/Scripts/PlayerAttack.cs"
 "Assets/Scripts/TestMenu.cs"
 "Assets/Scripts/ThirdPerson.cs"
 "Assets/Unused Scripts/PickUpItem.cs"

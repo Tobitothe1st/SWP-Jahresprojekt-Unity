@@ -27,7 +27,7 @@ public class EnemySpawn : MonoBehaviour
         Physics.Raycast(ray, out hit);
         //Debug.DrawRay(Enemy.transform.position, -transform.up * 10f, Color.red);
 
-        int randomSpawn = Random.Range(0, 50);
+        int randomSpawn = Random.Range(0, 100);
         //Debug.Log(randomSpawn.ToString());
         if (randomSpawn == 25)
         {

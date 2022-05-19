@@ -2115,6 +2115,30 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1236662814 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3939017901837503790, guid: af969dc07d1ad9e458333741d68a69b5, type: 3}
+  m_PrefabInstance: {fileID: 3939017901356672743}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1236662818
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1236662814}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 8f7380da49034cd488ddff94b1ac35d1, type: 3}
+  m_Controller: {fileID: 9100000, guid: 7c2eece357b8af74887802aec905e372, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1246260376
 GameObject:
   m_ObjectHideFlags: 0
@@ -3800,8 +3824,8 @@ MonoBehaviour:
   Player: {fileID: 2106999745}
   maxTime: 50
   minTime: 1
-  positiveRadius: 50
-  negativeRadius: -50
+  positiveRadius: 20
+  negativeRadius: -20
 --- !u!4 &1855694264
 Transform:
   m_ObjectHideFlags: 0
@@ -4373,6 +4397,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e0b254d3529a4b47bfd4391f1ec430e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Player: {fileID: 2106999743}
 --- !u!1001 &3939017901356672743
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4390,7 +4415,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3939017901812551092, guid: af969dc07d1ad9e458333741d68a69b5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.62
+      value: 0.14
       objectReference: {fileID: 0}
     - target: {fileID: 3939017901812551092, guid: af969dc07d1ad9e458333741d68a69b5, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4425,6 +4450,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3939017901812551093, guid: af969dc07d1ad9e458333741d68a69b5, type: 3}
+      propertyPath: move
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 3939017901812551093, guid: af969dc07d1ad9e458333741d68a69b5, type: 3}
       propertyPath: player
       value: 
       objectReference: {fileID: 0}
@@ -4452,6 +4481,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3939017901837503788, guid: af969dc07d1ad9e458333741d68a69b5, type: 3}
+      propertyPath: m_Constraints
+      value: 112
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: af969dc07d1ad9e458333741d68a69b5, type: 3}
 --- !u!1001 &6884711145328534576
@@ -4461,6 +4494,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2705349707807994173, guid: 87733afcbbdd92c4c9abb20cd4098b7b, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 7357ff83c07de3648a21f2e62abadf6d, type: 2}
     - target: {fileID: 6884711144614569871, guid: 87733afcbbdd92c4c9abb20cd4098b7b, type: 3}
       propertyPath: m_Name
       value: Player

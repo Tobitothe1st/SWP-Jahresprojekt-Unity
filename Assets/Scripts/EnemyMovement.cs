@@ -25,17 +25,24 @@ public class EnemyMovement : MonoBehaviour
 
         float range = Vector3.Distance(EnemyBody.transform.position, target);
         float speed = move * Time.deltaTime;
+        Transform Body = EnemyBody.transform.GetChild(1);
 
         //moves if player is in Range
         if (range < detectionRange && range > stopRange)
         {
             EnemyBody.transform.position = Vector3.MoveTowards(EnemyBody.transform.position, target, speed);
             //Look at Player, prevent from falling (set values to 0)
-            EnemyBody.transform.LookAt(playerBody);
+            EnemyBody.transform.LookAt(target);
+            EnemyBody.transform.GetChild(1).GetComponent<Animator>().Play("Z_Run 1");
         }
-        else if(range > despawnRange)
+        else if((range > despawnRange || Body.transform.position.y <= -20) && EnemyBody.name != "Enemey")
         {
             EnemyBody.SetActive(false);
+            EnemyBody.transform.GetChild(1).GetComponent<Animator>().Play("Z_Idle 1");
+        }
+        else if(range <= stopRange)
+        {
+            EnemyBody.transform.GetChild(1).GetComponent<Animator>().Play("Z_Attack 1");
         }
     }
 }

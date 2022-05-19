@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerAttack : MonoBehaviour
 {
+    public GameObject Player;
     // Start is called before the first frame update
     void Start()
     {
@@ -17,6 +18,8 @@ public class PlayerAttack : MonoBehaviour
         {
             //play Animation
             Debug.Log("Hit");
+            Player.transform.GetChild(3).GetComponent<Animator>().Play("RightHand@Attack01");
+            //Fix bug only 1 Attack animation playable
         }
     }
 }

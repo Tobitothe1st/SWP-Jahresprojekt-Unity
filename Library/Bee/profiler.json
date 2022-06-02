@@ -3,6 +3,7 @@
 "traceEvents":[
 { "cat":"", "pid":1, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"tundra" } }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ,{ "pid":1, "tid":0, "ts":828084697054, "dur":9392, "ph":"X", "name": "DriverCheckDagSignatures",  "args": { "durationMS":9, "detail":"" }}
 ,{ "pid":1, "tid":0, "ts":828084706447, "dur":31857, "ph":"X", "name": "DriverInitData",  "args": { "durationMS":32, "detail":"" }}
 ,{ "pid":1, "tid":0, "ts":828084738730, "dur":8320, "ph":"X", "name": "Tundra",  "args": { "durationMS":8, "detail":"RemoveStaleOutputs" }}
@@ -287,6 +288,8 @@
 ,{ "pid":1, "tid":4, "ts":828085424181, "dur":51, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "durationMS":0, "detail":"" }}
 ,{ "pid":1, "tid":4, "ts":828085424232, "dur":11941, "ph":"X", "name": "Exiting",  "args": { "durationMS":12, "detail":"BuildLoop" }}
 =======
+=======
+>>>>>>> Stashed changes
 ,{ "pid":1, "tid":0, "ts":91724174359, "dur":1565, "ph":"X", "name": "DriverCheckDagSignatures",  "args": { "durationMS":2, "detail":"" }}
 ,{ "pid":1, "tid":0, "ts":91724175924, "dur":1012, "ph":"X", "name": "DriverInitData",  "args": { "durationMS":1, "detail":"" }}
 ,{ "pid":1, "tid":0, "ts":91724177073, "dur":336, "ph":"X", "name": "Tundra",  "args": { "durationMS":0, "detail":"RemoveStaleOutputs" }}
@@ -587,6 +590,9 @@
 ,{ "pid":1, "tid":6, "ts":91724287722, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "durationMS":0, "detail":"CopyTool Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll" }}
 ,{ "pid":1, "tid":6, "ts":91724287808, "dur":308226, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "durationMS":308, "detail":"" }}
 ,{ "pid":1, "tid":6, "ts":91724596036, "dur":21244, "ph":"X", "name": "Exiting",  "args": { "durationMS":21, "detail":"BuildLoop" }}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 ]

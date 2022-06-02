@@ -16,17 +16,23 @@ C:/Users/adama/Documents/GitHub/SWP-Jahresprojekt-Unity
 Logs/AssetImportWorker0.log
 -srvPort
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 49771
 Successfully changed project path to: C:/Users/adama/Documents/GitHub/SWP-Jahresprojekt-Unity
 C:/Users/adama/Documents/GitHub/SWP-Jahresprojekt-Unity
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 160.17 ms, found 3 plugins.
 =======
+=======
+>>>>>>> Stashed changes
 53857
 Successfully changed project path to: C:/Users/tobias.pirkl/Documents/GitHub/SWP-Jahresprojekt-Unity
 C:/Users/tobias.pirkl/Documents/GitHub/SWP-Jahresprojekt-Unity
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 91.24 ms, found 3 plugins.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.21f1 (f2d5d3c59f8c)
@@ -44,6 +50,7 @@ Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.21f1/Editor/Data/Manage
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.21f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.21f1/Editor/Data/MonoBleedingEdge/etc'
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56788
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -58,6 +65,8 @@ Domain Reload Profiling:
 	ReloadAssembly (6589ms)
 		BeginReloadAssembly (241ms)
 =======
+=======
+>>>>>>> Stashed changes
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56816
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -71,6 +80,9 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (4335ms)
 		BeginReloadAssembly (68ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
@@ -108,6 +120,9 @@ Domain Reload Profiling:
 				BeforeProcessingInitializeOnLoad (1ms)
 				ProcessInitializeOnLoadAttributes (106ms)
 				ProcessInitializeOnLoadMethodAttributes (31ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
@@ -116,7 +131,11 @@ Domain Reload Profiling:
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Registered in 0.030824 seconds.
+=======
+Registered in 0.004551 seconds.
+>>>>>>> Stashed changes
 =======
 Registered in 0.004551 seconds.
 >>>>>>> Stashed changes
@@ -124,6 +143,7 @@ Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\adama\Documents\GitHub\SWP-Jahresprojekt-Unity\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 1.83 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
@@ -164,6 +184,19 @@ Domain Reload Profiling:
 			DisableScriptedObjects (6ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+=======
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.147 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1147ms)
+		BeginReloadAssembly (169ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+>>>>>>> Stashed changes
 			CreateAndSetChildDomain (21ms)
 		EndReloadAssembly (921ms)
 			LoadAssemblies (102ms)
@@ -193,6 +226,9 @@ Refreshing native plugins compatible for Editor in 1.14 ms, found 3 plugins.
 =======
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
 Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2985 Unused Serialized files (Serialized files now loaded: 0)
@@ -200,8 +236,13 @@ System memory in use before: 135.5 MB.
 System memory in use after: 135.6 MB.
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3471.
 Total: 4.864000 ms (FindLiveObjects: 0.342600 ms CreateObjectMapping: 0.106000 ms MarkObjects: 4.175800 ms  DeleteObjects: 0.238100 ms)
+=======
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3472.
+Total: 3.158700 ms (FindLiveObjects: 0.256400 ms CreateObjectMapping: 0.158600 ms MarkObjects: 2.594200 ms  DeleteObjects: 0.148500 ms)
+>>>>>>> Stashed changes
 =======
 Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3472.
 Total: 3.158700 ms (FindLiveObjects: 0.256400 ms CreateObjectMapping: 0.158600 ms MarkObjects: 2.594200 ms  DeleteObjects: 0.148500 ms)
@@ -220,10 +261,13 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 Received Import Request.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   path: Assets/Player/Player Animator.controller
   artifactKey: Guid(7357ff83c07de3648a21f2e62abadf6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Player/Player Animator.controller using Guid(7357ff83c07de3648a21f2e62abadf6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd61c6c41f293a4dceb035aaa98db956e') in 0.079721 seconds 
 =======
+=======
+>>>>>>> Stashed changes
   path: Assets/Player/Player Animator.controller
   artifactKey: Guid(7357ff83c07de3648a21f2e62abadf6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Player/Player Animator.controller using Guid(7357ff83c07de3648a21f2e62abadf6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31055029893715b71c28db0f6bbbce32') in 0.048232 seconds 

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <LangVersion>8.0</LangVersion>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -69,8 +69,10 @@
     <Compile Include="Assets\Scripts\MovementMouse.cs" />
     <Compile Include="Assets\Extern Assets\SaveGame\Scripts\SaveSystem\SaveSystemData.cs" />
     <Compile Include="Assets\Extern Assets\Grass And Flowers Pack 1\Example Scene\SimpleTextureDrawing.cs" />
+    <Compile Include="Assets\Scripts\EnemyAttack.cs" />
     <Compile Include="Assets\Scripts\ThirdPerson.cs" />
     <Compile Include="Assets\Scripts\EnemySpawn.cs" />
+    <Compile Include="Assets\Scripts\FollowPlayer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Extern Assets\TextMesh Pro\Shaders\TMPro.cginc" />

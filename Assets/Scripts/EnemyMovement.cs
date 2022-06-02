@@ -42,7 +42,11 @@ public class EnemyMovement : MonoBehaviour
         }
         else if(range <= stopRange)
         {
-            EnemyBody.transform.GetChild(1).GetComponent<Animator>().Play("Z_Attack 1");
+            int randomAttack = Random.Range(0, 100);
+            if(randomAttack == 50)
+            {
+                EnemyBody.transform.GetChild(1).GetComponent<Animator>().Play("Z_Attack 1");
+            }
         }
     }
 }

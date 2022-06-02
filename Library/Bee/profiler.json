@@ -5,6 +5,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ,{ "pid":1, "tid":0, "ts":828084697054, "dur":9392, "ph":"X", "name": "DriverCheckDagSignatures",  "args": { "durationMS":9, "detail":"" }}
 ,{ "pid":1, "tid":0, "ts":828084706447, "dur":31857, "ph":"X", "name": "DriverInitData",  "args": { "durationMS":32, "detail":"" }}
 ,{ "pid":1, "tid":0, "ts":828084738730, "dur":8320, "ph":"X", "name": "Tundra",  "args": { "durationMS":8, "detail":"RemoveStaleOutputs" }}
@@ -289,6 +290,8 @@
 ,{ "pid":1, "tid":4, "ts":828085424181, "dur":51, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "durationMS":0, "detail":"" }}
 ,{ "pid":1, "tid":4, "ts":828085424232, "dur":11941, "ph":"X", "name": "Exiting",  "args": { "durationMS":12, "detail":"BuildLoop" }}
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -595,6 +598,9 @@
 ,{ "pid":1, "tid":6, "ts":91724596036, "dur":21244, "ph":"X", "name": "Exiting",  "args": { "durationMS":21, "detail":"BuildLoop" }}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

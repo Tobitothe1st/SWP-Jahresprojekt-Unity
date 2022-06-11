@@ -20,7 +20,7 @@ public class PlayerAttack : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Mouse0))
         {
             //play Animation
-            a.Play("RightHand@Attack01");
+            a.Play("AttackTree");
         }
     }
 }

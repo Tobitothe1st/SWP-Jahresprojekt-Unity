@@ -26,9 +26,14 @@ public class OpenMenu : MonoBehaviour
             cam1.enabled = !cam1.enabled;
             cam2.enabled = !cam2.enabled;
             menu.enabled = !menu.enabled;
-
-            //ToDo: Find a way to make Menu work/interactable
-            //Player.GetComponent<MovementMouse>().enabled = false;
+            if(menu.enabled)
+            {
+                Cursor.lockState = CursorLockMode.None;
+            }
+            else
+            {
+                Cursor.lockState = CursorLockMode.Locked;
+            }
             
         }
     }

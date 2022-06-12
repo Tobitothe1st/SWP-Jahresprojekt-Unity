@@ -329,6 +329,7 @@
 "Assets/Scripts/EnemyMovement.cs"
 "Assets/Scripts/EnemySpawn.cs"
 "Assets/Scripts/FollowPlayer.cs"
+"Assets/Scripts/Hotbar.cs"
 "Assets/Scripts/Menu.cs"
 "Assets/Scripts/MovementKeyboard.cs"
 "Assets/Scripts/MovementMouse.cs"

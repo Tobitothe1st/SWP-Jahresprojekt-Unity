@@ -17,11 +17,11 @@ public class EnemyAttack : MonoBehaviour
     {
         if (col.gameObject.tag == "Enemy")
         {
-            Debug.Log("Hit");
+            //Debug.Log("Hit");
         }
         else if (col.gameObject.tag == "Player")
         {
-            Debug.Log("Hit2");
+            //Debug.Log("Hit2");
         }
     }
 

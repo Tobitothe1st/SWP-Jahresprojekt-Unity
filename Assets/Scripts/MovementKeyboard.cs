@@ -12,6 +12,7 @@ public class MovementKeyboard : MonoBehaviour
     public float y = 5f;
     public float yspeed = 1f;
 
+    public Animator a;
     public Vector3 move;
 
 
@@ -27,10 +28,12 @@ public class MovementKeyboard : MonoBehaviour
         if (Input.GetKey(KeyCode.LeftShift))
         {
             speed = 25f;
+            //a.Play("Run");
         }
         else
         {
             speed = 12f;
+            //a.Play("Walk");
         }
 
         yspeed += Physics.gravity.y * Time.deltaTime;
